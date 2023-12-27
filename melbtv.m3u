@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url="http://xmltv.net/xml_files/Melbourne.xml"
+
+#EXTINF:-1 channel-id="432003auepg.com.au" tvg-id="432003auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/7matehd.png" tvg-chno="74" group-title="Melbourne" , 7 Mate HD
+http://192.168.115.202:5004/auto/v74
+
+#EXTINF:-1 channel-id="431505auepg.com.au" tvg-id="431505auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9hd.png" tvg-chno="90" group-title="Melbourne" , 9 HD
+http://192.168.115.202:5004/auto/v90
+
+#EXTINF:-1 channel-id="431563auepg.com.au" tvg-id="431563auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/10hd.png" tvg-chno="15" group-title="Melbourne" , 10 HD
+http://192.168.115.202:5004/auto/v1
+
+#EXTINF:-1 channel-id="391143auepg.com.au" tvg-id="391143auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/sbsonehd.png" tvg-chno="30" group-title="Melbourne" , SBS HD
+http://192.168.115.202:5004/auto/v30
+
+#EXTINF:-1 channel-id="431777auepg.com.au" tvg-id="431777auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/sbsvicelandhd.png" tvg-chno="31" group-title="Melbourne" , SBS VICELAND HD
+http://192.168.115.202:5004/auto/v31
