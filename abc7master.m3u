@@ -8,3 +8,6 @@ http://192.168.115.202:5004/auto/v20
 
 #EXTINF:-1 channel-id="431563auepg.com.au" tvg-id="431563auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/10hd.png" tvg-chno="15" group-title="Melbourne" , 10 HD
 http://192.168.115.202:5004/auto/v1
+
+#EXTINF:-1 channel-id="407657auepg.com.au" tvg-id="407657auepg.com.au" tvg-logo="http://logos.png" tvg-chno="99" group-title="Melbourne" , 9 Go!
+http://192.168.115.202:5004/auto/v99
