@@ -8,3 +8,6 @@ https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input01/r1/index.m
 
 #EXTINF:-1 channel-id="ausopen3" tvg-id="ausopen3" tvg-logo="https://10play.com.au/ip/s3/2023/10/30/8c9a868fca9476ff5ca52c8708fe93c4-1276113.png" group-title="Au" , Margaret Court Arena
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input02/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="ausopen4" tvg-id="ausopen4" tvg-logo="https://10play.com.au/ip/s3/2023/10/30/8c9a868fca9476ff5ca52c8708fe93c4-1276113.png" group-title="Au" , John Cain Arena
+https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input03/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
