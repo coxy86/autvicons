@@ -94,6 +94,7 @@ plugin://plugin.video.foxtel.go/?_=play&id=590399&media_type=1&_is_live=1&_nores
 
 #EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="SHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
 plugin://plugin.video.foxtel.go/?_=play&id=527476&media_type=1&_is_live=1&_noresume=.pvr
+http://foxteldashlive01.akamaized.net/live/channel031/channel031_mcs.isml/playlist_high.mpd
 
 #EXTINF:-1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
 plugin://plugin.video.foxtel.go/?_=play&id=1321675&media_type=1&_is_live=1&_noresume=.pvr
