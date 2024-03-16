@@ -1,0 +1,222 @@
+#EXTM3U
+
+#EXTGRP:
+
+#EXTINF:-1 channel-id="101" group-title="Entertainment;Foxtel Go" tvg-chno="101" tvg-id="F1S" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3861118:206:CHANNEL:IMAGE:png&w=400#Foxtel%20One|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Foxtel One" , Foxtel One
+plugin://plugin.video.foxtel.go/?_=play&id=3861118&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="105" group-title="Entertainment;Foxtel Go" tvg-chno="105" tvg-id="UKT" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256570:206:CHANNEL:IMAGE:png&w=400#UKTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="UKTV" , UKTV
+plugin://plugin.video.foxtel.go/?_=play&id=256570&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="106" group-title="Entertainment;Foxtel Go" tvg-chno="106" tvg-id="LST" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264107:206:CHANNEL:IMAGE:png&w=400#LifeStyle|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle" , LifeStyle
+plugin://plugin.video.foxtel.go/?_=play&id=264107&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="108" group-title="Entertainment;Foxtel Go" tvg-chno="108" tvg-id="FOX" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256579:206:CHANNEL:IMAGE:png&w=400#FOX8|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX8" , FOX8
+plugin://plugin.video.foxtel.go/?_=play&id=256579&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="111" group-title="Entertainment;Foxtel Go" tvg-chno="111" tvg-id="ARN" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263960:206:CHANNEL:IMAGE:png&w=400#Arena|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Arena" , Arena
+plugin://plugin.video.foxtel.go/?_=play&id=263960&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="112" group-title="Entertainment;Foxtel Go" tvg-chno="112" tvg-id="SHC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504731:206:CHANNEL:IMAGE:png&w=400#Showcase|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Showcase" , Showcase
+plugin://plugin.video.foxtel.go/?_=play&id=504731&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="113" group-title="Entertainment;Foxtel Go" tvg-chno="113" tvg-id="IOI" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889309:206:CHANNEL:IMAGE:png&w=400#Crime|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Crime" , Crime
+plugin://plugin.video.foxtel.go/?_=play&id=3889309&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="114" group-title="Entertainment;Foxtel Go" tvg-chno="114" tvg-id="HIT" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889324:206:CHANNEL:IMAGE:png&w=400#Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Comedy" , Comedy
+plugin://plugin.video.foxtel.go/?_=play&id=3889324&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="115" group-title="Entertainment;Foxtel Go" tvg-chno="115" tvg-id="HAR" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2119802:206:CHANNEL:IMAGE:png&w=400#Docos%20HD|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Docos HD" , Docos HD
+plugin://plugin.video.foxtel.go/?_=play&id=2119802&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="117" group-title="Entertainment;Foxtel Go" tvg-chno="117" tvg-id="FKC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=612342:206:CHANNEL:IMAGE:png&w=400#Classics|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Classics" , Classics
+plugin://plugin.video.foxtel.go/?_=play&id=612342&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="118" group-title="Entertainment;Foxtel Go" tvg-chno="118" tvg-id="FSU" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4448299:206:CHANNEL:IMAGE:png&w=400#Sleuth|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sleuth" , Sleuth
+plugin://plugin.video.foxtel.go/?_=play&id=4448299&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="119" group-title="Entertainment;Foxtel Go" tvg-chno="119" tvg-id="BSF" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766500:206:CHANNEL:IMAGE:png&w=400#BBC%20First|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BBC First" , BBC First
+plugin://plugin.video.foxtel.go/?_=play&id=766500&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="120" group-title="Entertainment;Foxtel Go" tvg-chno="120" tvg-id="HAL" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264105:206:CHANNEL:IMAGE:png&w=400#Universal%20TV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Universal TV" , Universal TV
+plugin://plugin.video.foxtel.go/?_=play&id=264105&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="121" group-title="Entertainment;Foxtel Go" tvg-chno="121" tvg-id="RLS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11231402:206:CHANNEL:IMAGE:png&w=400#Real%20Life|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Real Life" , Real Life
+plugin://plugin.video.foxtel.go/?_=play&id=11231402&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="123" group-title="Entertainment;Foxtel Go" tvg-chno="123" tvg-id="DTA" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506664:206:CHANNEL:IMAGE:png&w=400#TLC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TLC" , TLC
+plugin://plugin.video.foxtel.go/?_=play&id=506664&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="125" group-title="Entertainment;Foxtel Go" tvg-chno="125" tvg-id="FOD" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264109:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Food|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Food" , LifeStyle Food
+plugin://plugin.video.foxtel.go/?_=play&id=264109&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="126" group-title="Entertainment;Foxtel Go" tvg-chno="126" tvg-id="LHO" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=465979:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Home|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Home" , LifeStyle Home
+plugin://plugin.video.foxtel.go/?_=play&id=465979&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="128" group-title="Entertainment;Foxtel Go" tvg-chno="128" tvg-id="UP2" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6610934:206:CHANNEL:IMAGE:png&w=400#Quiz|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Quiz" , Quiz
+plugin://plugin.video.foxtel.go/?_=play&id=6610934&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="130" group-title="Entertainment;Foxtel Go" tvg-chno="130" tvg-id="HST" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264100:206:CHANNEL:IMAGE:png&w=400#HISTORY|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="HISTORY" , HISTORY
+plugin://plugin.video.foxtel.go/?_=play&id=264100&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="131" group-title="Entertainment;Foxtel Go" tvg-chno="131" tvg-id="AES" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263956:206:CHANNEL:IMAGE:png&w=400#A%26E|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="A&E" , A&E
+plugin://plugin.video.foxtel.go/?_=play&id=263956&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="133" group-title="Entertainment;Foxtel Go" tvg-chno="133" tvg-id="DIS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263959:206:CHANNEL:IMAGE:png&w=400#Discovery%20Channel|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Channel" , Discovery Channel
+plugin://plugin.video.foxtel.go/?_=play&id=263959&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="134" group-title="Entertainment;Foxtel Go" tvg-chno="134" tvg-id="BBK" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263958:206:CHANNEL:IMAGE:png&w=400#BBC%20Earth|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BBC Earth" , BBC Earth
+plugin://plugin.video.foxtel.go/?_=play&id=263958&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="135" group-title="Entertainment;Foxtel Go" tvg-chno="135" tvg-id="CIN" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264099:206:CHANNEL:IMAGE:png&w=400#CRIME%2BINVESTIGATION|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CRIME+INVESTIGATION" , CRIME+INVESTIGATION
+plugin://plugin.video.foxtel.go/?_=play&id=264099&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="136" group-title="Entertainment;Foxtel Go" tvg-chno="136" tvg-id="DID" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4700474:206:CHANNEL:IMAGE:png&w=400#Investigation%20Discovery|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Investigation Discovery" , Investigation Discovery
+plugin://plugin.video.foxtel.go/?_=play&id=4700474&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="141" group-title="Entertainment;Foxtel Go" tvg-chno="141" tvg-id="ANI" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400#Animal%20Planet|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Animal Planet" , Animal Planet
+plugin://plugin.video.foxtel.go/?_=play&id=506663&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="143" group-title="Entertainment;Foxtel Go" tvg-chno="143" tvg-id="DIT" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504387:206:CHANNEL:IMAGE:png&w=400#Discovery%20Turbo|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Turbo" , Discovery Turbo
+plugin://plugin.video.foxtel.go/?_=play&id=504387&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="144" group-title="Entertainment;Foxtel Go" tvg-chno="144" tvg-id="WWS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=10479931:206:CHANNEL:IMAGE:png&w=400#WWE|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="WWE" , WWE
+plugin://plugin.video.foxtel.go/?_=play&id=10479931&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="150" group-title="Entertainment;Foxtel Go" tvg-chno="150" tvg-id="BXS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=823997:206:CHANNEL:IMAGE:png&w=400#BoxSets|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BoxSets" , BoxSets
+plugin://plugin.video.foxtel.go/?_=play&id=823997&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="176" group-title="Entertainment;Foxtel Go" tvg-chno="176" tvg-id="TVS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542988:206:CHANNEL:IMAGE:png&w=400#TVSN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="TVSN" , TVSN
+plugin://plugin.video.foxtel.go/?_=play&id=542988&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="182" group-title="Entertainment;Foxtel Go" tvg-chno="182" tvg-id="ACC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=590399:206:CHANNEL:IMAGE:png&w=400#GOOD.|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="GOOD." , GOOD.
+plugin://plugin.video.foxtel.go/?_=play&id=590399&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="SHO" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
+plugin://plugin.video.foxtel.go/?_=play&id=527476&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
+plugin://plugin.video.foxtel.go/?_=play&id=1321675&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="SHF" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
+plugin://plugin.video.foxtel.go/?_=play&id=527478&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="405" group-title="Movies;Foxtel Go" tvg-chno="405" tvg-id="SHA" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527477:206:CHANNEL:IMAGE:png&w=400#Movies%20Action|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Action" , Movies Action
+plugin://plugin.video.foxtel.go/?_=play&id=527477&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="406" group-title="Movies;Foxtel Go" tvg-chno="406" tvg-id="SHY" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527481:206:CHANNEL:IMAGE:png&w=400#Movies%20Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Comedy" , Movies Comedy
+plugin://plugin.video.foxtel.go/?_=play&id=527481&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="408" group-title="Movies;Foxtel Go" tvg-chno="408" tvg-id="SHD" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527482:206:CHANNEL:IMAGE:png&w=400#Movies%20Romance|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Romance" , Movies Romance
+plugin://plugin.video.foxtel.go/?_=play&id=527482&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="409" group-title="Movies;Foxtel Go" tvg-chno="409" tvg-id="MO6" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527480:206:CHANNEL:IMAGE:png&w=400#Movies%20Drama|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Drama" , Movies Drama
+plugin://plugin.video.foxtel.go/?_=play&id=527480&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="410" group-title="Movies;Foxtel Go" tvg-chno="410" tvg-id="GRR" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2337483:206:CHANNEL:IMAGE:png&w=400#Movies%20Greats|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Greats" , Movies Greats
+plugin://plugin.video.foxtel.go/?_=play&id=2337483&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="411" group-title="Movies;Foxtel Go" tvg-chno="411" tvg-id="LMS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5645424:206:CHANNEL:IMAGE:png&w=400#LMN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LMN" , LMN
+plugin://plugin.video.foxtel.go/?_=play&id=5645424&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="500" group-title="Sport;Foxtel Go" tvg-chno="500" tvg-id="FSN" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256571:206:CHANNEL:IMAGE:png&w=400#FOX%20SPORTS%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX SPORTS NEWS" , FOX SPORTS NEWS
+plugin://plugin.video.foxtel.go/?_=play&id=256571&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="501" group-title="Sport;Foxtel Go" tvg-chno="501" tvg-id="FS1" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400#FOX%20CRICKET|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX CRICKET" , FOX CRICKET
+plugin://plugin.video.foxtel.go/?_=play&id=542982&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="502" group-title="Sport;Foxtel Go" tvg-chno="502" tvg-id="SP2" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400#FOX%20League|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX League" , FOX League
+plugin://plugin.video.foxtel.go/?_=play&id=542983&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FS3" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 503" , Fox Sports 503
+plugin://plugin.video.foxtel.go/?_=play&id=542984&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FAF" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy
+plugin://plugin.video.foxtel.go/?_=play&id=542985&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="505" group-title="Sport;Foxtel Go" tvg-chno="505" tvg-id="FSP" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 505" , Fox Sports 505
+plugin://plugin.video.foxtel.go/?_=play&id=264274&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="506" group-title="Sport;Foxtel Go" tvg-chno="506" tvg-id="SPS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 506" , Fox Sports 506
+plugin://plugin.video.foxtel.go/?_=play&id=504388&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="507" group-title="Sport;Foxtel Go" tvg-chno="507" tvg-id="FSS" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1704826:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20More%2B|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports More+" , Fox Sports More+
+plugin://plugin.video.foxtel.go/?_=play&id=1704826&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="509" group-title="Sport;Foxtel Go" tvg-chno="509" tvg-id="ESP" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570991:206:CHANNEL:IMAGE:png&w=400#ESPN|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN" , ESPN
+plugin://plugin.video.foxtel.go/?_=play&id=570991&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="510" group-title="Sport;Foxtel Go" tvg-chno="510" tvg-id="ES2" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=570992:206:CHANNEL:IMAGE:png&w=400#ESPN2|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="ESPN2" , ESPN2
+plugin://plugin.video.foxtel.go/?_=play&id=570992&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="526" group-title="Sport;Foxtel Go" tvg-chno="526" tvg-id="SRA" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024394:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%201|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 1" , Sky Racing 1
+plugin://plugin.video.foxtel.go/?_=play&id=6024394&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="527" group-title="Sport;Foxtel Go" tvg-chno="527" tvg-id="SR2" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024398:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%202|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing 2" , Sky Racing 2
+plugin://plugin.video.foxtel.go/?_=play&id=6024398&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="528" group-title="Sport;Foxtel Go" tvg-chno="528" tvg-id="SRW" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=6024401:206:CHANNEL:IMAGE:png&w=400#Sky%20Racing%20Thoroughbred%20Central|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky Racing Thoroughbred Central" , Sky Racing Thoroughbred Central
+plugin://plugin.video.foxtel.go/?_=play&id=6024401&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="529" group-title="Sport;Foxtel Go" tvg-chno="529" tvg-id="RTV" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=12543813:206:CHANNEL:IMAGE:png&w=400#RACING.COM|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="RACING.COM" , RACING.COM
+plugin://plugin.video.foxtel.go/?_=play&id=12543813&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="600" group-title="News & Weather;Foxtel Go" tvg-chno="600" tvg-id="SKY" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256559:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS" , SKY NEWS
+plugin://plugin.video.foxtel.go/?_=play&id=256559&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="601" group-title="News & Weather;Foxtel Go" tvg-chno="601" tvg-id="FXW" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256567:206:CHANNEL:IMAGE:png&w=400#SKY%20Weather|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY Weather" , SKY Weather
+plugin://plugin.video.foxtel.go/?_=play&id=256567&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="603" group-title="News & Weather;Foxtel Go" tvg-chno="603" tvg-id="ASP" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2427883:206:CHANNEL:IMAGE:png&w=400#Sky%20News%20Extra|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Sky News Extra" , Sky News Extra
+plugin://plugin.video.foxtel.go/?_=play&id=2427883&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="604" group-title="News & Weather;Foxtel Go" tvg-chno="604" tvg-id="SUK" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=543179:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS%20UK|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS UK" , SKY NEWS UK
+plugin://plugin.video.foxtel.go/?_=play&id=543179&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="606" group-title="News & Weather;Foxtel Go" tvg-chno="606" tvg-id="BBC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506670:206:CHANNEL:IMAGE:png&w=400#BBC%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BBC News" , BBC News
+plugin://plugin.video.foxtel.go/?_=play&id=506670&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="608" group-title="News & Weather;Foxtel Go" tvg-chno="608" tvg-id="FNC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542987:206:CHANNEL:IMAGE:png&w=400#FOX%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX News" , FOX News
+plugin://plugin.video.foxtel.go/?_=play&id=542987&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="609" group-title="News & Weather;Foxtel Go" tvg-chno="609" tvg-id="CNN" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264106:206:CHANNEL:IMAGE:png&w=400#CNN%20International|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNN International" , CNN International
+plugin://plugin.video.foxtel.go/?_=play&id=264106&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="612" group-title="News & Weather;Foxtel Go" tvg-chno="612" tvg-id="MSN" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=11348234:206:CHANNEL:IMAGE:png&w=400#MSNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MSNBC" , MSNBC
+plugin://plugin.video.foxtel.go/?_=play&id=11348234&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="620" group-title="News & Weather;Foxtel Go" tvg-chno="620" tvg-id="CNB" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=766501:206:CHANNEL:IMAGE:png&w=400#CNBC|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CNBC" , CNBC
+plugin://plugin.video.foxtel.go/?_=play&id=766501&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="621" group-title="News & Weather;Foxtel Go" tvg-chno="621" tvg-id="BLM" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4329941:206:CHANNEL:IMAGE:png&w=400#Bloomberg%20Television|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Bloomberg Television" , Bloomberg Television
+plugin://plugin.video.foxtel.go/?_=play&id=4329941&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="656" group-title="News & Weather;Foxtel Go" tvg-chno="656" tvg-id="NHK" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4962087:206:CHANNEL:IMAGE:png&w=400#NHK%20World|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="NHK World" , NHK World
+plugin://plugin.video.foxtel.go/?_=play&id=4962087&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="705" group-title="Kids & Family;Foxtel Go" tvg-chno="705" tvg-id="CBE" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263954:206:CHANNEL:IMAGE:png&w=400#CBeebies|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CBeebies" , CBeebies
+plugin://plugin.video.foxtel.go/?_=play&id=263954&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="713" group-title="Kids & Family;Foxtel Go" tvg-chno="713" tvg-id="CNE" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263952:206:CHANNEL:IMAGE:png&w=400#Cartoon%20Network|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Cartoon Network" , Cartoon Network
+plugin://plugin.video.foxtel.go/?_=play&id=263952&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="715" group-title="Kids & Family;Foxtel Go" tvg-chno="715" tvg-id="BOO" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263953:206:CHANNEL:IMAGE:png&w=400#Boomerang|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Boomerang" , Boomerang
+plugin://plugin.video.foxtel.go/?_=play&id=263953&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="717" group-title="Kids & Family;Foxtel Go" tvg-chno="717" tvg-id="DRM" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=7080887:206:CHANNEL:IMAGE:png&w=400#DreamWorks|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="DreamWorks" , DreamWorks
+plugin://plugin.video.foxtel.go/?_=play&id=7080887&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="801" group-title="Music;Foxtel Go" tvg-chno="801" tvg-id="TMF" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585034:206:CHANNEL:IMAGE:png&w=400#MTV%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV Hits" , MTV Hits
+plugin://plugin.video.foxtel.go/?_=play&id=1585034&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="802" group-title="Music;Foxtel Go" tvg-chno="802" tvg-id="NMU" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411777:206:CHANNEL:IMAGE:png&w=400#Nick%20Music|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Nick Music" , Nick Music
+plugin://plugin.video.foxtel.go/?_=play&id=5411777&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="803" group-title="Music;Foxtel Go" tvg-chno="803" tvg-id="VH1" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1585033:206:CHANNEL:IMAGE:png&w=400#Club%20MTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Club MTV" , Club MTV
+plugin://plugin.video.foxtel.go/?_=play&id=1585033&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="804" group-title="Music;Foxtel Go" tvg-chno="804" tvg-id="MTC" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411858:206:CHANNEL:IMAGE:png&w=400#MTV%2080s|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="MTV 80s" , MTV 80s
+plugin://plugin.video.foxtel.go/?_=play&id=5411858&media_type=1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 channel-id="805" group-title="Music;Foxtel Go" tvg-chno="805" tvg-id="CMT" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=5411893:206:CHANNEL:IMAGE:png&w=400#CMT|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CMT" , CMT
+plugin://plugin.video.foxtel.go/?_=play&id=5411893&media_type=1&_is_live=1&_noresume=.pvr
