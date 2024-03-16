@@ -13,3 +13,15 @@ https://bein-apac-live.akamaized.net/bein/au_bein_sports_03/au_bein_sports_03.is
 
 #EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="beinsports4" tvg-id="mutv" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56.png" , MUTV
 https://bein-apac-live.akamaized.net/bein/au_bein_sports_04/au_bein_sports_04.isml/playlist.mpd
+
+#EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="97" tvg-id="beinsports1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png" , beIN SPORTS 1
+plugin://plugin.video.beinsports.apac/?_=play&channel_id=beinsports1&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="98" tvg-id="beinsports2" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png" , beIN SPORTS 2
+plugin://plugin.video.beinsports.apac/?_=play&channel_id=beinsports2&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="99" tvg-id="beinsports3" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3.png" , beIN SPORTS 3
+plugin://plugin.video.beinsports.apac/?_=play&channel_id=beinsports3&_is_live=1&_noresume=.pvr
+
+#EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="100" tvg-id="mutv" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56.png" , MUTV
+plugin://plugin.video.beinsports.apac/?_=play&channel_id=mutv&_is_live=1&_noresume=.pvr
