@@ -2,5 +2,5 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=4826BDB5A-6641-4A21-8C64-89A7A4F3FC39
-http://foxteldashlive01.akamaized.net/live/channel031/channel031_mcs.isml/playlist_high.mpd
+#KODIPROP:inputstream.adaptive.license_key=9830F317-336C-4D20-81D5-8A257755D4CF
+http://foxteldashlive01.akamaized.net/live/channel089/channel089_mcs.isml/playlist_high.mpd
