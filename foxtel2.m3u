@@ -1,0 +1,6 @@
+#EXTINF:0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://website.net/AcquireWidevineLicense.ashx|drmchallengecustomdata=BASE64_KEY|b{SSM}b{SID}|B
+https://channel_file.mpd
