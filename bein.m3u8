@@ -3,9 +3,9 @@
 #EXTGRP:
 
 #EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="beinsports1" tvg-id="beinsports1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png" , beIN SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream=inputstream.adaptive
+KODIPROP:inputstream.adaptive.manifest_type=mpd
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=85281D48-0E19-0C78-D920-26C0EF4312B5
 https://bein-apac-live.akamaized.net/bein/au_bein_sports_01/au_bein_sports_01.isml/playlist.mpd
 
