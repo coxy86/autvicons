@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/c575da77022ce5a3e9a4a423593fdba1b80f9869/SkyGo/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/03768228128b67db10ffaa53a1924a6914987a77/SkyGo/epg.xml"
 
 #EXTINF:0 channel-id="sky.601" group-title="Sport;Foxtel Go" tvg-chno="sky.601" tvg-id="sky.601" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
