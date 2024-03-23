@@ -28,7 +28,7 @@ https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7
 
 https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel048/channel048_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168569~hmac=0526266142d319d587e5bf70744563b1617892a0f5016653e593ac6c5eb69a95%26aws.sessionId=d73a6b04-c62d-408b-ad9a-db6c011ab02e
 
-#EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="Foxtel Movies Family HD" tvg-logo="http://127.0.0.1:52103/https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
+#EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="Foxtel Movies Family HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
