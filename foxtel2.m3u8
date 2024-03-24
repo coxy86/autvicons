@@ -1,121 +1,106 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/australiapremium.xml"
 
-#EXTINF:0 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="mjh-seven-mel" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy SD
+#EXTINF:0 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="Foxtel Movies Premiere HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_medium.mpd?hdnts=exp=1711191630~hmac=92d404d8fe8a1d9444b501f129f121948de70ffbd2695d17568522686ec5b1e7%26aws.sessionId=90b344ef-048b-42b1-b389-4ddfbe018760
-
-#EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FAF" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
-
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?ads.auhead=%2F21780812979%2Ffoxtellive&ads.correlator=1449287803&ads.auapp=foxtelgo&ads.auchtag=FAF&ads.audev=macbrowser%2Fosx&ads.idm=02&ads.location=nsw&ads.idfx_hashed=c6c8aef59f88f77621b97ca25d860858&ads.account_hashed=2fc413897e46c499e19bce695c347ccb&ads.manufacturer=Google&ads.gizmo_type=macbrowser&ads.gizmo_model=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F123.0.0.0+Safari%2F537.36&ads.gizmo_osEnvironment=OSX&ads.app_id=FOXTELGO&ads.app_ver_short=3.4.3&ads.ppid=9fc500e7b3baedf593fc06e2c396cb16c6c8aef59f88f77621b97ca25d860858&ads.dph=9fc500e7b3baedf593fc06e2c396cb16c6c8aef59f88f77621b97ca25d860858&ads.ip=210.9.146.178&ads.userAgent=Mozilla%252F5.0%2520%2528Macintosh%253B%2520Intel%2520Mac%2520OS%2520X%252010_15_7%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F123.0.0.0%2520Safari%252F537.36&ads.url=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.descUrl=http%3A%2F%2Ffoxtel.com.au%2Fads&ads.ip_postcode=3000&ads.tzlocale=AU-VIC&ads.npa=0&aws.sessionId=e77d77cb-293b-4218-861b-4a42dcab74ff&hdnts=exp=1711191628~hmac=ebaef4a885f55e5466e982c8d48b5da1150d6046acef785fd5eaecb22c4f5a42
-
-#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="Foxtel Movies Premiere HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
-
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel031/channel031_mcs.isml/playlist_medium.mpd?hdnts=exp=1711213750~hmac=be065ce6295219a38d80e400cbd975f074fb02c422bb207984302ca3f9af1bb7%26aws.sessionId=03b21851-45a7-4089-890c-648b314d0e15
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel031/channel031_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287100~hmac=98c984c04058f8e34ca079b35d008d8558beafe83c6e5f77b6cfafb6e52a3000%26aws.sessionId=6ca2b8e0-b731-4c9f-bcf9-86523c1fe8ca
 
 #EXTINF:-1 channel-id="402" group-title="Movies;Foxtel Go" tvg-chno="402" tvg-id="MVS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=1321675:206:CHANNEL:IMAGE:png&w=400#Movies%20Hits|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Hits" , Movies Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel048/channel048_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168569~hmac=0526266142d319d587e5bf70744563b1617892a0f5016653e593ac6c5eb69a95%26aws.sessionId=d73a6b04-c62d-408b-ad9a-db6c011ab02e
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel048/channel048_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287132~hmac=e368b528b32ad72b00de5edc45adb20d6faae5bd19ee5f067edb8b6ee5397741%26aws.sessionId=2931f916-6f8d-4cf2-9e52-19fa0364e1fb
 
 #EXTINF:-1 channel-id="403" group-title="Movies;Foxtel Go" tvg-chno="403" tvg-id="Foxtel Movies Family HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527478:206:CHANNEL:IMAGE:png&w=400#Movies%20Family|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Family" , Movies Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel033/channel033_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168612~hmac=a6900966c5d59547bdb2d84ff5d020e5bddc4545936ee0add2c55fe69b22a8dc%26aws.sessionId=882e468c-c04c-4801-93d4-1032abacbc49
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel033/channel033_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287172~hmac=c3e80515e0ca573a4898cf222eff2191d7329b979fea68e25f7249296226e502%26aws.sessionId=83ebe100-be1e-4fcc-a534-5403323ff3b9
 
 #EXTINF:-1 channel-id="405" group-title="Movies;Foxtel Go" tvg-chno="405" tvg-id="Foxtel Movies Action HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527477:206:CHANNEL:IMAGE:png&w=400#Movies%20Action|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Action" , Movies Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel032/channel032_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168651~hmac=924d728ff7da6cb7b90423e089200ad3af731972c4bc912d74a30e3cfb911ac5%26aws.sessionId=1614e0e6-9a4e-4e3e-b7c1-d41f420d70df
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel032/channel032_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287227~hmac=683c4e27dc029f35f77205ae6085d8f4648105ac0e7b1cc490d05c307f17f57f%26aws.sessionId=1cc8b150-fc60-4c79-bd54-3a6c25f28081
 
 #EXTINF:-1 channel-id="406" group-title="Movies;Foxtel Go" tvg-chno="406" tvg-id="Foxtel Movies Comedy HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527481:206:CHANNEL:IMAGE:png&w=400#Movies%20Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Comedy" , Movies Comedy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel050/channel050_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168681~hmac=5101fbb750f319bd997a8fa04355fa5b8bb7c736baf179ee9b98df689b3e484b%26aws.sessionId=a52e92af-bb6a-4828-bca2-8b09b1ef036f
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel050/channel050_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287260~hmac=b083951a3c81c013077fb8f50a1d6b9e20ed7e1aea1abda7a500bc231f835360%26aws.sessionId=3e1bd162-eca7-4f43-8893-3caeef84f3df
 
 #EXTINF:-1 channel-id="408" group-title="Movies;Foxtel Go" tvg-chno="408" tvg-id="Foxtel Movies Romance HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527482:206:CHANNEL:IMAGE:png&w=400#Movies%20Romance|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Romance" , Movies Romance
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel053/channel053_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168712~hmac=dde25ab43932d39a6bcca12b3cb62fedc6d15cf843afcf44ae27cd688847da81%26aws.sessionId=7582da98-2301-4110-923f-6bd6832a7e11
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel053/channel053_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287290~hmac=7f59e88fe9b80ce866428e35ecff816966c2892abe32ed0ceb28620d2e2e1a42%26aws.sessionId=2b07802d-2369-4b22-ac4a-c3f644fdd8fc
 
 #EXTINF:-1 channel-id="409" group-title="Movies;Foxtel Go" tvg-chno="409" tvg-id="Foxtel Movies Drama HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527480:206:CHANNEL:IMAGE:png&w=400#Movies%20Drama|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Drama" , Movies Drama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel052/channel052_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168742~hmac=57471911f57ff962b616bea7d41d72a1bdf65cdece344aea4cff940582fc208b%26aws.sessionId=8ad49a49-97c1-47f9-acb7-360c3d1cbbd7
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel052/channel052_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287318~hmac=f752b5c9a1048a993ef3f4c8aee6719ae3735c57ffc2e8a80a579329cccdf205%26aws.sessionId=83a00ec2-67cf-4454-bc1c-b9894e0d99c1
 
 #EXTINF:-1 channel-id="410" group-title="Movies;Foxtel Go" tvg-chno="410" tvg-id="Foxtel Movies Greats HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=2337483:206:CHANNEL:IMAGE:png&w=400#Movies%20Greats|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Greats" , Movies Greats
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel054/channel054_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168773~hmac=7540330eba6ac2b66fd708b8ceca9cec97eb5262d3063497e81cb0495ea76d5b%26aws.sessionId=72324573-cc8f-4ea2-973d-b96cd412f6a8
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel054/channel054_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287353~hmac=3d4fe8dacf14428e30f21a6c55ce774a0dd8a930d3a44345246ffb845b7526f7%26aws.sessionId=1007b578-ffe0-4cf8-92d8-7533861ea8cb
 
 #EXTINF:-1 channel-id="150" group-title="Entertainment;Foxtel Go" tvg-chno="150" tvg-id="Boxsets HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=823997:206:CHANNEL:IMAGE:png&w=400#BoxSets|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BoxSets" , BoxSets
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel087/channel087_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168810~hmac=77ff22e8e63e3c4ba8a62f64034700b087fea3695cd7e4c08cbb46e744a75d95%26aws.sessionId=44f07acd-77c3-4aa1-8b40-cc1d1e7a336b
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel087/channel087_mcs.isml/playlist_high.mpd?hdnts=exp=1711287393~hmac=46d7afd111da1e97c9b9386e405fc92a6712902485f04158e88ee5417b157dc7%26aws.sessionId=37323811-f9c4-4ca2-95a5-3314aec29c60
 
 #EXTINF:-1 channel-id="112" group-title="Entertainment;Foxtel Go" tvg-chno="112" tvg-id="FOX SHOWCASE HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504731:206:CHANNEL:IMAGE:png&w=400#Showcase|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Showcase" , Showcase
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel041/channel041_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168844~hmac=db71b62d532ae94444a888ca0bc1ccbb84ce87123dd5b09bb13a28cd0766e7ab%26aws.sessionId=4c8b8035-cf4e-4464-8cf8-2d19b7be43a7
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel041/channel041_mcs.isml/playlist_medium.mpd?hdnts=exp=1711287434~hmac=fc6eb6116b4a7535ecd5ce186d329181a086eab5663fb3a0c3699397bd711047%26aws.sessionId=7bc22afe-87b1-45ef-a3f6-c3676ace92b3
 
 #EXTINF:-1 channel-id="105" group-title="Entertainment;Foxtel Go" tvg-chno="105" tvg-id="UKTV" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=256570:206:CHANNEL:IMAGE:png&w=400#UKTV|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="UKTV" , UKTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-
-https://foxteldashlive01.akamaized.net/live/channel042/channel042_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168876~hmac=1fc57142f215f6bc6285bf6d0505f5ddb0919e7f2d030918df7f57866dce82d8
+https://foxteldashlive01.akamaized.net/live/channel042/channel042_mcs.isml/playlist_high.mpd?hdnts=exp=1711287600~hmac=1fd87c30fff7a7c2e29ff56d8ec10ad3a96b9d3c866dccad62c5d70a01b3eb4f
 
 #EXTINF:-1 channel-id="106" group-title="Entertainment;Foxtel Go" tvg-chno="106" tvg-id="Lifestyle Channel" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264107:206:CHANNEL:IMAGE:png&w=400#LifeStyle|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle" , LifeStyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel024/channel024_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168915~hmac=4c744c4232030301d6789fbc2c07b5ae37e63263c2b4f1a84759d087e665f2de%26aws.sessionId=9d3ee8a7-3d0b-4c59-9112-22ff242b13a0
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel024/channel024_mcs.isml/playlist_high.mpd?hdnts=exp=1711287470~hmac=dccb852dfebf3c02c8a328cc9e57f597f23fa503cdf688c8d6eb7a0f174b3677%26aws.sessionId=15281d31-0c57-420d-b3a8-b67f8bad615e
 
 #EXTINF:-1 channel-id="114" group-title="Entertainment;Foxtel Go" tvg-chno="114" tvg-id="FOX Comedy" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=3889324:206:CHANNEL:IMAGE:png&w=400#Comedy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Comedy" , Comedy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel094/channel094_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168947~hmac=b73dc9a6eb930f4eea22bbcee2e723f333b1e7ed4f7aa7945106e0f66a018674%26aws.sessionId=55b22637-0398-474c-af46-25137231801c
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel094/channel094_mcs.isml/playlist_high.mpd?hdnts=exp=1711287501~hmac=068ae92943070da47c8f5a07bcc2f54dcf2ecf0fc7ff47e51fc8e83eb9cdd665%26aws.sessionId=c918373f-de54-4c70-a3b5-c64511d352c4
 
 #EXTINF:-1 channel-id="125" group-title="Entertainment;Foxtel Go" tvg-chno="125" tvg-id="FOD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264109:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Food|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Food" , LifeStyle Food
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel030/channel030_mcs.isml/playlist_medium.mpd?hdnts=exp=1711168978~hmac=ccf82359d1e726aceb530a49dd4cbf4f92e390edf712b4a646c8ab399bf6885b%26aws.sessionId=feeb9d65-665d-4099-bb5f-a74c5c2c6251
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel030/channel030_mcs.isml/playlist_high.mpd?hdnts=exp=1711287532~hmac=4bbe8a06483e1bcdb839e3afd4b0c2e128f2cbd245d35e99de152f0054ff51ea%26aws.sessionId=cd561a56-0c4e-49ed-8db4-58d350304cc0
 
 #EXTINF:-1 channel-id="126" group-title="Entertainment;Foxtel Go" tvg-chno="126" tvg-id="LHO" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=465979:206:CHANNEL:IMAGE:png&w=400#LifeStyle%20Home|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="LifeStyle Home" , LifeStyle Home
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
-https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel020/channel020_mcs.isml/playlist_medium.mpd?hdnts=exp=1711169006~hmac=c5a0c526192d88ff9f77054dd355bacdf861f3b3a6878974ac72b84de8e11132%26aws.sessionId=19889b0c-273b-4299-a84c-bab0b6dd4918
+https://foxteldashmtlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-akamai/live/channel020/channel020_mcs.isml/playlist_high.mpd?hdnts=exp=1711287563~hmac=76a24ecc9502e2a5ffd58117af125f1244ec61a3b8de688e882cdc769f880358%26aws.sessionId=91174155-0aac-41ae-87cd-e8ede07ea27f
