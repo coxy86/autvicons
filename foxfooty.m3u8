@@ -3,13 +3,13 @@
 #EXTINF:0 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="mjh-seven-mel" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
 https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel111/channel111_mcs.isml/playlist_high.mpd?hdnts=exp=1711285489~hmac=504ae412c05e988e6b22d669f716f537e73cf698c2387242c132274041d51990%26aws.sessionId=c6887c25-afcf-466b-b4cb-92f2f55cdf68
 
 #EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="mjh-seven-mel" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=4E0B87FD0980BBE4
 
 https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp=1711285425~hmac=4e2e8520fd59182f122b1fce738825fcc03ff144c36743340b2e13aab56a9823%26aws.sessionId=29f645eb-4ffb-4bb0-a6e0-341a4d98166a
