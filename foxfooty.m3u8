@@ -12,4 +12,4 @@ https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=91CF5D6CDE0BA265&Ticket=D796C5AAA6373D32
 
-https://foxteldashlive01.akamaized.net/live/channel001/channel001_mcs.isml/playlist_high.mpd?hdnts=exp=1711271813~hmac=62de1d4f04d4bee39deed27447e5de4a786ae13ac33be520bc805ab2a01666ea
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp=1711272158~hmac=5b99ae0641487f10ea6a9a29bb5bf7f8e8373cd9b88d649a4ae0168346359d76%26aws.sessionId=5c522c02-0ada-4ede-a76d-58a92ad9cf8a
