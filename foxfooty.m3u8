@@ -3,13 +3,13 @@
 #EXTINF:0 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="FoxSports503.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_465979&SessionId=91CF5D6CDE0BA265&Ticket=2158A279D8EBB749
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501503&SessionId=91CF5D6CDE0BA265&Ticket=0C42FE42013E0F8C
 
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel111/channel111_mcs.isml/playlist_medium.mpd?hdnts=exp=1711549118~hmac=b41462fccdc6edef3842dea1e5b85890432a30fa54ee0de3b66b3121eba5c5c8%26aws.sessionId=0d7045af-6d4c-4334-8a66-c671ab1dad71
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel111/channel111_mcs.isml/playlist_medium.mpd?hdnts=exp=1711638478~hmac=ee13ba2385928c23bf49d3fd644fa69698e5ed53ca3fa48520a23fe85d0d193d%26aws.sessionId=9dbe806a-b3bb-449a-9ae3-d82b166475ce
 
 #EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FoxFooty.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_465979&SessionId=91CF5D6CDE0BA265&Ticket=2158A279D8EBB749
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_501503&SessionId=91CF5D6CDE0BA265&Ticket=0C42FE42013E0F8C
                                           
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_medium.mpd?hdnts=exp=1711553546~hmac=e986ecbefa54a09482276a181078661d1176e81d6bc2e1a2852e1d9768aea832%26aws.sessionId=84336e4d-27e9-45d0-a3c0-102e934ea076
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_medium.mpd?hdnts=exp=1711638424~hmac=59d9c749ce22fd1cf3e34406613d8eb9a8324cd274a34fcd9c0a74c3c1f06005%26aws.sessionId=4d0032ad-deed-47d3-a44b-2bc8b96c4b64
