@@ -20,9 +20,9 @@ https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab
 #EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id="FoxFooty.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=A9515F0DC196B4CD
+#KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_504504&SessionId=F9519D2665E54BFB&Ticket=AE11515D038EB341
 
-https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp=1711798639~hmac=74ab43be4ac150e77f05bd2f73701a73324cb15ec98abac7556a8041e27b5f34%26aws.sessionId=b6266f0c-d6c1-4648-9be0-4102e5fb5074
+https://foxteldashmtgmpxlive01.akamaized.net/v1/dash/40a0de4a910d426b321814c25ab1ea7bbc30818d/prod-dash-switch-gambproxy-akamai/live/channel089/channel089_mcs.isml/playlist_high.mpd?hdnts=exp=1711877289~hmac=388f24f1410acf6837a7a01b20094865e2dfbb0a4e9487ef5405216df20caff4%26aws.sessionId=17871463-91bf-4559-80e9-4c0c3f9068d5
 
 #EXTINF:-1 channel-id="505" group-title="Sport;Foxtel Go" tvg-chno="505" tvg-id="FoxSports505.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Fox Sports 505" , Fox Sports 505
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
