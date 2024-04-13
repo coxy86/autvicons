@@ -28,4 +28,5 @@ https://double2.totototorina.com:7066/hls/ten2.m3u8|user-agent=Mozilla/5.0%20%28
 
 license_type=com.widevine.alpha
 license_key=https://castleblack.digiturk.com.tr/api/widevine/licenseraw?version=1
-https://bein-apac-live.akamaized.net/bein/au_bein_sports_01/au_bein_sports_01.isml/playlist.mpd?hdnts=st=1712966400~exp=1713099997~acl=/*~id=38803169~hmac=7422092af64034788c07454449fbfa432ed9499a7d00858731a1f82d301f2e1d
+
+https://bein-apac-live.akamaized.net/bein/au_bein_sports_01/au_bein_sports_01.isml/playlist.mpd?hdnts=st=1712966400~exp=1713102137~acl=/*~id=38803169~hmac=905cf7ea837c3ac4bf37f448d223cd29a7f8c4c8661b838d8f7469aa0b635479
