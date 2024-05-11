@@ -1,0 +1,26 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml"
+
+#EXTINF:-1 channel-id="mjh-3aw-melbourne" tvg-id="mjh-3aw-melbourne" tvg-logo="https://i.mjh.nz/.images/3aw-melbourne.png" group-title="Melbourne" , 3AW Melbourne
+https://afl-live-hls-002-uptls.akamaized.net/vflch6/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-FAST" tvg-id="mjh-bordersecurityaustralia-FAST" tvg-logo="https://i.mjh.nz/.images/bordersecurityaustralia-FAST.png" group-title="Au" , Border Security Australia
+https://afl-vod-multi-005-uptls.akamaized.net/packaging3_f7d8f/out/v1/bd6447a5b7d840ac963b19dfcffb0d40/ef1d806899ce413791eb3795aa40401b/b4a356d5797943a38e2db18bf7d1a781/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-racing-FAST" tvg-id="mjh-racing-FAST" tvg-logo="https://resources.afl.com.au/photo-resources/2023/09/16/dcbfef16-b814-4ae7-99d7-d86dc2a06ad1/DscvSYGt.jpg?width=750&height=419" tvg-chno="78" group-title="Au" , Racing.com
+https://afl-vod-multi-005-uptls.akamaized.net/packaging3_f7d8f/out/v1/a3a4a83d6a924732b0af5c2ac785fe2c/ef1d806899ce413791eb3795aa40401b/b4a356d5797943a38e2db18bf7d1a781/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-ausbiz-FAST" tvg-id="mjh-ausbiz-FAST" tvg-logo="https://i.mjh.nz/.images/ausbiz-FAST.png" group-title="Au" , ausbiz
+https://afl-live-hls-002-uptls.akamaized.net/vflch7/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-hardcorepawn-FAST" tvg-id="mjh-hardcorepawn-FAST" tvg-logo="https://i.mjh.nz/.images/hardcorepawn-FAST.png" group-title="Au" , Hardcore Pawn
+https://afl-live-hls-002-uptls.akamaized.net/vflch34/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-outdoor-FAST" tvg-id="mjh-outdoor-FAST" tvg-logo="https://i.mjh.nz/.images/outdoor-FAST.png" group-title="Au" , Outdoor Channel
+https://afl-live-hls-002-uptls.akamaized.net/vflch37/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-allsaints-FAST" tvg-id="mjh-allsaints-FAST" tvg-logo="https://i.mjh.nz/.images/allsaints-FAST.png" group-title="Au" , All Saints
+https://afl-live-hls-002-uptls.akamaized.net/vflch38/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-supercarsreplays-FAST" tvg-id="mjh-supercarsreplays-FAST" tvg-logo="https://i.mjh.nz/.images/supercarsreplays-FAST.png" group-title="Au" , Supercars Replays
+https://afl-live-hls-002-uptls.akamaized.net/vflch39/stream.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
