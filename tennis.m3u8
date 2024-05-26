@@ -34,5 +34,5 @@ https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input10/r1/index.m
 #EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="beinsports1" tvg-id="beinsports1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png" , beIN SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://castleblack.digiturk.com.tr/api/widevine/licenseraw?version=1
-http://127.0.0.1:52103/https://bein-apac-live.akamaized.net/bein/au_bein_sports_01/au_bein_sports_01.isml/playlist.mpd?hdnts=st=1712966400~exp=1713138571~acl=/*~id=38803169~hmac=29b8ef439eaa64168e56c9ef2b07b9768e6c3445a4333498df58d0cb5d1397d8
+#KODIPROP:inputstream.adaptive.license_key=
+https://api.stan.com.au/manifest/v1/dash/web.mpd?url=https%3A%2F%2Fawslive01.stan.video%2Fout%2Fv1%2F3cb5a208da8342d9b76c0d7bbf3d3063%2Findex.mpd%3FavailabilityStart%3D1716707158%26aws.manifestfilter%3Dvideo_codec%253Ah264%26clearaudio%3Dtrue%26end%3D0%26live%3Dtrue%26maxQuality%3Dsd%26start%3D1716713408&audioType=all&livecaptions=true&version=125
