@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
 
 #EXTINF:-1 channel-id="sky.605" tvg-id="sky.50" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9now1.png" tvg-chno="605" group-title="Tennis Streams" , Court Philippe Chatrier
-https://a86.azplay.me/hls/streama222935/index.m3u8?cst=d435f29be7456cf2f106492ccaebd1fd
+https://wiki.onlinehdhls.ru/wiki/wikiten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="sky.606" tvg-id="sky.51" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9now2.png" tvg-chno="606" group-title="Tennis Streams" , Court Suzanne Lenglen
 https://a86.azplay.me/hls/streama222935/index.m3u8?cst=d435f29be7456cf2f106492ccaebd1fd
