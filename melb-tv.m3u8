@@ -19,7 +19,7 @@ https://i.mjh.nz/channel-9-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%201
 https://i.mjh.nz/gem-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9go.png" tvg-chno="93" group-title=“Melbourne” ,9Go!
-https://9now-livestreams-v2.akamaized.net/prod/simulcast/mel/go/hls/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/go-vic.m3u8
 
 #EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9life.png" tvg-chno="94" group-title=“Melbourne” ,9Life
 https://i.mjh.nz/life-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
