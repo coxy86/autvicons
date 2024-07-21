@@ -4,25 +4,25 @@
 
 #EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id=""tv_guide_link_name" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
 
-#EXTINF:-1 tvg-id="501" tvg-name="UK| FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORT",UK| FOX SPORTS 501 HD
+#EXTINF:-1 tvg-id="501" tvg-name="FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORT",UK| FOX SPORTS 501 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42050
-#EXTINF:-1 tvg-id="502" tvg-name="UK| FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORT",UK| FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="502" tvg-name="FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORT",UK| FOX SPORTS 502 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42049
-#EXTINF:-1 tvg-id="503" tvg-name="UK| FOX SPORTS 503 HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" group-title="FOX SPORT",UK| FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="503" tvg-name="FOX SPORTS 503 HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" group-title="FOX SPORT",UK| FOX SPORTS 503 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42048
-#EXTINF:-1 tvg-id="504" tvg-name="UK| FOX SPORTS 504 HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" group-title="FOX SPORT",UK| FOX SPORTS 504 HD
+#EXTINF:-1 tvg-id="504" tvg-name="FOX SPORTS 504 HD" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" group-title="FOX SPORT",UK| FOX SPORTS 504 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/190999
-#EXTINF:-1 tvg-id="505" tvg-name="UK| FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 505 HD
+#EXTINF:-1 tvg-id="505" tvg-name="FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 505 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191000
-#EXTINF:-1 tvg-id="506" tvg-name="UK| FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 506 HD
+#EXTINF:-1 tvg-id="506" tvg-name="FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 506 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191001
-#EXTINF:-1 tvg-id="507" tvg-name="UK| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 507 HD
+#EXTINF:-1 tvg-id="507" tvg-name="FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 507 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191002
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK| TNT SPORT 1 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13780
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK| TNT SPORT 1 HD [BK]" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD [BK]
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT SPORT 1 HD [BK]" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD [BK]
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6202
-#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK| TNT SPORT 2 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 HD
+#EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13779
 #EXTINF:-1 tvg-id="tntsports2.uk" tvg-name="UK| TNT SPORT 2 HD [BK]" tvg-logo="https://lo1.in/uk/tntsport.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 HD [BK]
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6203
@@ -56,7 +56,7 @@ http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/2371
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/2370
 #EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 7" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 7
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/2369
-#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 8" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 8
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest?cb=20230830143641" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 8
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/2368
-#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 9" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 9
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest?cb=20230830143632" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 9
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/2367
