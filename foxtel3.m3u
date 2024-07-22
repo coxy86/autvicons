@@ -1,9 +1,5 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 
-#EXTINF:-1 channel-id="503" group-title="Sport;Foxtel Go" tvg-chno="503" tvg-id="tv_guide_link_name" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20503|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy 503
-
-#EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id=""tv_guide_link_name" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
-
 #EXTINF:-1 channel-id="501" tvg-id="501" tvg-name="FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORT", FOX SPORTS 501 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42050
 #EXTINF:-1 channel-id="502" tvg-id="502" tvg-name="FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORT", FOX SPORTS 502 HD
