@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://magnetic.website/jet/epg.xml"
 
-#EXTINF:-1 channel-id="600" tvg-chno="600" tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis", TNT Sport 1 HD
+#EXTINF:-1 channel-id="600" tvg-chno="600" tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports1.png" group-title="TNT Sport + Tennis", TNT Sport 1 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13780
-#EXTINF:-1 channel-id="601" tvg-chno="601" tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis", TNT Sport 1 HD 1080
+#EXTINF:-1 channel-id="601" tvg-chno="601" tvg-id="TNT.Sports.1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports1.png" group-title="TNT Sport + Tennis", TNT Sport 1 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6202
-#EXTINF:-1 channel-id="602" tvg-chno="602" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis", TNT Sport 2 HD
+#EXTINF:-1 channel-id="602" tvg-chno="602" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports2.png" group-title="TNT Sport + Tennis", TNT Sport 2 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13779
-#EXTINF:-1 channel-id="603" tvg-chno="603" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis", TNT Sport 2 HD 1080
+#EXTINF:-1 channel-id="603" tvg-chno="603" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports2.png" group-title="TNT Sport + Tennis", TNT Sport 2 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6203
-#EXTINF:-1 channel-id="604" tvg-chno="604" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis", TNT Sport 3 HD
+#EXTINF:-1 channel-id="604" tvg-chno="604" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports3.png" group-title="TNT Sport + Tennis", TNT Sport 3 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13778
-#EXTINF:-1 channel-id="605" tvg-chno="605" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis", TNT Sport 3 HD 1080
+#EXTINF:-1 channel-id="605" tvg-chno="605" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports3.png" group-title="TNT Sport + Tennis", TNT Sport 3 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6204
 #EXTINF:-1 channel-id="606"tvg-chno="606" tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports4.png" group-title="TNT Sport + Tennis", TNT Sport 4 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153713
-#EXTINF:-1 channel-id="607"tvg-chno="607" tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="TNT Sport + Tennis", TNT Sport 05 EXTRA HD
+#EXTINF:-1 channel-id="607"tvg-chno="607" tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports5.png" group-title="TNT Sport + Tennis", TNT Sport 05 EXTRA HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/62800
-#EXTINF:-1 channel-id="608" tvg-chno="608" tvg-id="tntsports1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis", TNT Sport 1 FHD 1080
+#EXTINF:-1 channel-id="608" tvg-chno="608" tvg-id="tntsports1.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports1.png" group-title="TNT Sport + Tennis", TNT Sport 1 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153714
-#EXTINF:-1 channel-id="609" tvg-chno="609" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis", TNT Sport 2 FHD 1080
+#EXTINF:-1 channel-id="609" tvg-chno="609" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports2.png" group-title="TNT Sport + Tennis", TNT Sport 2 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153716
-#EXTINF:-1 channel-id="610" tvg-chno="610" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis", TNT Sport 3 FHD 1080
+#EXTINF:-1 channel-id="610" tvg-chno="610" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports3.png" group-title="TNT Sport + Tennis", TNT Sport 3 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153718
-#EXTINF:-1 channel-id="611" tvg-chno="611" tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="TNT Sport + Tennis", TNT Sport 4 FHD 1080
+#EXTINF:-1 channel-id="611" tvg-chno="611" tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sports + Tennis" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports4.png" group-title="TNT Sport + Tennis", TNT Sport 4 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13716
 #EXTINF:-1 channel-id="612" tvg-chno="612" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181415
