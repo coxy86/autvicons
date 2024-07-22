@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://magnetic.website/jet/epg.xml"
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport",TNT Sport 1 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13780
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 HD [1080]
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport",TNT Sport 1 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6202
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 HD
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport",TNT Sport 2 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13779
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORT 2 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 HD [1080]
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport",TNT Sport 2 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6203
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORT 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="EU | UK SPORT",UK| TNT SPORT 3 HD
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport",TNT Sport 3 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13778
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORT 3 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="EU | UK SPORT",UK| TNT SPORT 3 HD [1080]
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport",TNT Sport 3 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6204
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORT 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="EU | UK SPORT",UK| TNT SPORT 4 HD
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="TNT Sport",TNT Sport 4 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153713
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORT 05 EXTRA HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="EU | UK SPORT",UK| TNT SPORT 05 EXTRA HD
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sport 05 EXTRA HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="TNT Sport",TNT Sport 05 EXTRA HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/62800
-#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="UK| TNT SPORT 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="EU | UK SPORT",UK| TNT SPORT 1 FHD
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-name="TNT Sport 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport",TNT Sport 1 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153714
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="UK| TNT SPORT 2 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="EU | UK SPORT",UK| TNT SPORT 2 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport",TNT Sport 2 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153716
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="UK| TNT SPORT 3 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="EU | UK SPORT",UK| TNT SPORT 3 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport",TNT Sport 3 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153718
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="UK| TNT SPORT 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="EU | UK SPORT",UK| TNT SPORT 4 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="TNT Sport",TNT Sport 4 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13716
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL FHD
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181415
