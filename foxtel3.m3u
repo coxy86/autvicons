@@ -4,17 +4,17 @@
 
 #EXTINF:-1 channel-id="504" group-title="Sport;Foxtel Go" tvg-chno="504" tvg-id=""tv_guide_link_name" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX Footy" , FOX Footy HD
 
-#EXTINF:-1 tvg-id="501" tvg-name="FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORT",UK| FOX SPORTS 501 HD
+#EXTINF:-1 channel-id="501" tvg-id="501" tvg-name="FOX SPORTS 501 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 501.png" group-title="FOX SPORT", FOX SPORTS 501 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42050
-#EXTINF:-1 tvg-id="502" tvg-name="FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORT",UK| FOX SPORTS 502 HD
+#EXTINF:-1 channel-id="502" tvg-id="502" tvg-name="FOX SPORTS 502 HD" tvg-logo="https://lo1.in/uk/FOX SPORTS 502.png" group-title="FOX SPORT", FOX SPORTS 502 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42049
-#EXTINF:-1 tvg-id="503" tvg-name="FOX SPORTS 503 HD" tvg-logo="https://imgur.com/MvodVXd"FOX SPORT",UK| FOX SPORTS 503 HD
+#EXTINF:-1 channel-id="503" tvg-id="503" tvg-name="FOX SPORTS 503 HD" tvg-logo="https://imgur.com/MvodVXd"FOX SPORT", FOX SPORTS 503 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/42048
-#EXTINF:-1 tvg-id="504" tvg-name="FOX SPORTS 504 HD" tvg-logo="https://imgur.com/4q3rn0n"FOX SPORT",UK| FOX SPORTS 504 HD
+#EXTINF:-1 channel-id="504" tvg-id="504" tvg-name="FOX SPORTS 504 HD" tvg-logo="https://imgur.com/4q3rn0n"FOX SPORT", FOX Footy 504 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/190999
-#EXTINF:-1 tvg-id="505" tvg-name="FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 505 HD
+#EXTINF:-1 channel-id="505" tvg-id="505" tvg-name="FOX SPORTS 505 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT", FOX SPORTS 505 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191000
-#EXTINF:-1 tvg-id="506" tvg-name="FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 506 HD
+#EXTINF:-1 channel-id="506" tvg-id="506" tvg-name="FOX SPORTS 506 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT", FOX SPORTS 506 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191001
-#EXTINF:-1 tvg-id="507" tvg-name="FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT",UK| FOX SPORTS 507 HD
+#EXTINF:-1 channel-id="507" tvg-id="507" tvg-name="FOX SPORTS 507 HD" tvg-logo="https://lo1.in/uk/fxsp.png" group-title="FOX SPORT", FOX SPORTS 507 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/191002
