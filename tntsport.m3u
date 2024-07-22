@@ -1,82 +1,82 @@
 #EXTM3U x-tvg-url="https://magnetic.website/jet/epg.xml"
 
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 HD
+#EXTINF:-1 channel-id="601" tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13780
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 HD 1080
+#EXTINF:-1 channel-id="602" tvg-id="TNT.Sports.1.uk" tvg-name="TNT SPORT 1 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6202
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 HD
+#EXTINF:-1 channel-id="603" tvg-id="TNT.Sports.2.uk" tvg-name="TNT SPORT 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13779
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 HD 1080
+#EXTINF:-1 channel-id="604" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6203
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 HD
+#EXTINF:-1 channel-id="605" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13778
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 HD 1080
+#EXTINF:-1 channel-id="606" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 HD [BK]" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 HD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/6204
-#EXTINF:-1 channel-id="501"tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports4.png" group-title="TNT Sport + Tennis",TNT Sport 4 HD
+#EXTINF:-1 channel-id="607"tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tntsports4.png" group-title="TNT Sport + Tennis",TNT Sport 4 HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153713
-#EXTINF:-1 channel-id="501"tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sport 05 EXTRA HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="TNT Sport + Tennis",TNT Sport 05 EXTRA HD
+#EXTINF:-1 channel-id="608"tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sport 05 EXTRA HD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="TNT Sport + Tennis",TNT Sport 05 EXTRA HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/62800
-#EXTINF:-1 channel-id="501" tvg-id="tntsports1.uk" tvg-name="TNT Sport 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 FHD 1080
+#EXTINF:-1 channel-id="609" tvg-id="tntsports1.uk" tvg-name="TNT Sport 1 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="TNT Sport + Tennis",TNT Sport 1 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153714
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 FHD 1080
+#EXTINF:-1 channel-id="610" tvg-id="TNT.Sports.2.uk" tvg-name="TNT Sport 2 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="TNT Sport + Tennis",TNT Sport 2 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153716
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 FHD 1080
+#EXTINF:-1 channel-id="611" tvg-id="TNT.Sports.3.uk" tvg-name="TNT Sport 3 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="TNT Sport + Tennis",TNT Sport 3 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/153718
-#EXTINF:-1 channel-id="501" tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="TNT Sport + Tennis",TNT Sport 4 FHD 1080
+#EXTINF:-1 channel-id="612" tvg-id="TNT.Sports.4.uk" tvg-name="TNT Sport 4 FHD" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="TNT Sport + Tennis",TNT Sport 4 FHD 1080
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/13716
-#EXTINF:-1 channel-id="501" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="TNT Sport + Tennis",US| TENNIS CHANNEL HD
+#EXTINF:-1 channel-id="613" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="TNT Sport + Tennis",US| TENNIS CHANNEL HD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181415
-#EXTINF:-1 channel-id="501" tvg-id="tennischannel.us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL FHD
+#EXTINF:-1 channel-id="700" tvg-id="tennischannel.us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL FHD
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181415
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 1" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 1
+#EXTINF:-1 channel-id="701" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 1" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 1
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181353
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 2" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 2
+#EXTINF:-1 channel-id="702" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 2" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 2
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181354
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 3 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 3 
+#EXTINF:-1 channel-id="703" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 3 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 3 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181367
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 4 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 4 
+#EXTINF:-1 channel-id="704" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 4 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 4 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181366
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 5 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 5 
+#EXTINF:-1 channel-id="705" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 5 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 5 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181365
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 6 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 6 
+#EXTINF:-1 channel-id="706" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 6 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 6 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181364
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 7 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 7 
+#EXTINF:-1 channel-id="707" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 7 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 7 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181363
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 8 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 8 
+#EXTINF:-1 channel-id="708" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 8 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 8 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181362
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 9 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 9 
+#EXTINF:-1 channel-id="709" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 9 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 9 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181361
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 10 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 10 
+#EXTINF:-1 channel-id="710" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 10 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 10 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181360
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 11 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 11 
+#EXTINF:-1 channel-id="711" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 11 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 11 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181359
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 12 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 12 
+#EXTINF:-1 channel-id="712" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 12 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 12 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181358
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 13 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 13 
+#EXTINF:-1 channel-id="713" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 13 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 13 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181357
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 14 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 14 
+#EXTINF:-1 channel-id="714" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 14 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 14 
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/181356
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 15" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 15
+#EXTINF:-1 channel-id="715" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 15" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 15
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53056
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 16" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 16
+#EXTINF:-1 channel-id="716" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 16" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 16
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53057
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 17" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 17
+#EXTINF:-1 channel-id="717" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 17" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 17
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53058
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 18" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 18
+#EXTINF:-1 channel-id="718" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 18" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 18
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53059
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 19" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 19
+#EXTINF:-1 channel-id="719" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 19" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 19
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53060
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 20" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 20
+#EXTINF:-1 channel-id="720" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 20" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 20
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53061
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 21" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 21
+#EXTINF:-1 channel-id="721" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 21" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 21
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53062
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 22" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 22
+#EXTINF:-1 channel-id="722" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 22" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 22
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53063
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 23" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 23
+#EXTINF:-1 channel-id="723" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 23" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 23
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53064
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 24" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 24
+#EXTINF:-1 channel-id="724" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 24" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 24
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53065
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 25" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 25
+#EXTINF:-1 channel-id="725" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 25" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 25
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53066
-#EXTINF:-1 channel-id="501" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 26" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 26
+#EXTINF:-1 channel-id="726" tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 26" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 26
 http://yvsutky.megahdtv.xyz:80/SEQ6P7SN1U/A6C9D3A4/53067
