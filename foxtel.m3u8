@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 501" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS.png" group-title="|AU| AUSTRALIA",AU - FOX SPORTS 501
 http://c.dinott.com:80/2a21f237b4/bc4a169c97e5/259842
 #EXTINF:-1 tvg-id="" tvg-name="AU - FOX SPORTS 502" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOX-SPORTS.png" group-title="|AU| AUSTRALIA",AU - FOX SPORTS 502
