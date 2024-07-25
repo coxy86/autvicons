@@ -1,0 +1,162 @@
+##EXTM3U x-tvg-url="http://uezerxp.mexamo.xyz/xmltv.php?username=0169830126&password=1478437847&output=ts&type=m3u_plus"
+
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US| FUSE FHD" tvg-logo="https://lo1.in/us/fs.png" group-title="AM | USA CINEMA",US| FUSE FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181560
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US| FX HD" tvg-logo="https://lo1.in/us/fx.png" group-title="AM | USA CINEMA",US| FX HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/212539
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US| FX WEST HD" tvg-logo="https://lo1.in/usa/fxes.png" group-title="AM | USA CINEMA",US| FX WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181581
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US| FXM HD" tvg-logo="https://lo1.in/usa/fxm.png" group-title="AM | USA CINEMA",US| FXM HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181585
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US| FXX EAST HD" tvg-logo="https://lo1.in/usa/fxx.png" group-title="AM | USA CINEMA",US| FXX EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13559
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US| FXX WEST HD" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA CINEMA",US| FXX WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/33962
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US| PARAMOUNT NETWORK FHD" tvg-logo="https://lo1.in/usa/prm.png" group-title="AM | USA CINEMA",US| PARAMOUNT NETWORK FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400360339
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US| PARAMOUNT NETWORK HD (EAST)" tvg-logo="https://lo1.in/usa/prm.png" group-title="AM | USA CINEMA",US| PARAMOUNT NETWORK HD (EAST)
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/176601
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US| HBO EAST HD" tvg-logo="https://lo1.in/usa/hea.png" group-title="AM | USA CINEMA",US| HBO EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181617
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="US| HBO WEST HD" tvg-logo="https://lo1.in/usa/hbw.png" group-title="AM | USA CINEMA",US| HBO WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181618
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US| HBO 2 FHD" tvg-logo="https://lo1.in/usa/hb2.png" group-title="AM | USA CINEMA",US| HBO 2 FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181616
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US| HBO COMEDY EAST FHD" tvg-logo="https://lo1.in/usa/hbc.png" group-title="AM | USA CINEMA",US| HBO COMEDY EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13634
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US| HBO COMEDY HD [WEST]" tvg-logo="https://lo1.in/usa/hbc.png" group-title="AM | USA CINEMA",US| HBO COMEDY HD [WEST]
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/33978
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US| HBO FAMILY WEST HD" tvg-logo="https://lo1.in/usa/hbf.png" group-title="AM | USA CINEMA",US| HBO FAMILY WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13635
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US| HBO ZONE [EAST ]" tvg-logo="https://lo1.in/usa/hbz.png" group-title="AM | USA CINEMA",US| HBO ZONE [EAST ]
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13637
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US| HBO ZONE [WEST]" tvg-logo="https://lo1.in/usa/hbz.png" group-title="AM | USA CINEMA",US| HBO ZONE [WEST]
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/33977
+#EXTINF:-1 tvg-id="hbozonepacific.us" tvg-name="US| HBO SIGNATURE EAST HD" tvg-logo="https://lo1.in/usa/hbo.png" group-title="AM | USA CINEMA",US| HBO SIGNATURE EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/212519
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US| HBO SIGNATURE HD [WEST]" tvg-logo="https://lo1.in/usa/hbo.png" group-title="AM | USA CINEMA",US| HBO SIGNATURE HD [WEST]
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/33976
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US| HD NET MOVIES HD" tvg-logo="https://lo1.in/us/hd.png" group-title="AM | USA CINEMA",US| HD NET MOVIES HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253140
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US| HALLMARK MOVIES & MYSTERIES HD" tvg-logo="https://lo1.in/usa/hallmark1.png" group-title="AM | USA CINEMA",US| HALLMARK MOVIES & MYSTERIES HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181587
+#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="US| HALLMARK DRAMA HD" tvg-logo="https://lo1.in/us/hlld.png" group-title="AM | USA CINEMA",US| HALLMARK DRAMA HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181591
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="US| MGM  EAST FHD" tvg-logo="https://lo1.in/us/mgm.png" group-title="AM | USA CINEMA",US| MGM  EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181596
+#EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="US| MGM+ Marquee HD" tvg-logo="https://lo1.in/usa/fxsim.png" group-title="AM | USA CINEMA",US| MGM+ Marquee HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/34031
+#EXTINF:-1 tvg-id="mgmdrivein.us" tvg-name="US| MGM+ Drive-In HD" tvg-logo="https://lo1.in/usa/fxsihd.png" group-title="AM | USA CINEMA",US| MGM+ Drive-In HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/34032
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="US| MGM+ Hits HD" tvg-logo="https://lo1.in/usa/fxsihh.png" group-title="AM | USA CINEMA",US| MGM+ Hits HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/34033
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="US| MGM+ East HD" tvg-logo="https://lo1.in/usa/fxsihe.png" group-title="AM | USA CINEMA",US| MGM+ East HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/34034
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US| MOVIE MAX FHD" tvg-logo="https://lo1.in/usa/lvi.png" group-title="AM | USA CINEMA",US| MOVIE MAX FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181598
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US| MOVIE PLEX HD" tvg-logo="https://lo1.in/usa/mvpx.png" group-title="AM | USA CINEMA",US| MOVIE PLEX HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253137
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US| MORE MAX FHD (WEST)" tvg-logo="https://lo1.in/us/mro.png" group-title="AM | USA CINEMA",US| MORE MAX FHD (WEST)
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/176613
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US| MORE MAX FHD (EAST)" tvg-logo="https://lo1.in/us/mro.png" group-title="AM | USA CINEMA",US| MORE MAX FHD (EAST)
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/176614
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US| RETRO PLEX FHD" tvg-logo="https://lo1.in/us/rteo.png" group-title="AM | USA CINEMA",US| RETRO PLEX FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253139
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US| LIFETIME MOVIE FHD" tvg-logo="https://lo1.in/usa/lmn.png" group-title="AM | USA CINEMA",US| LIFETIME MOVIE FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181558
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="US| INDIE PLEX FHD" tvg-logo="https://lo1.in/us/inde.png" group-title="AM | USA CINEMA",US| INDIE PLEX FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253138
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US| IFC HD" tvg-logo="https://lo1.in/us/ifc.png" group-title="AM | USA CINEMA",US| IFC HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181559
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US| INSP HD" tvg-logo="https://lo1.in/usa/insp.png" group-title="AM | USA CINEMA",US| INSP HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181592
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US| SYFY East HD" tvg-logo="https://lo1.in/us/syf.png" group-title="AM | USA CINEMA",US| SYFY East HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181556
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US| SUNDANCE HD" tvg-logo="https://lo1.in/us/sda.png" group-title="AM | USA CINEMA",US| SUNDANCE HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181583
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US| SONY MOVIES FHD" tvg-logo="https://lo1.in/us/sny.png" group-title="AM | USA CINEMA",US| SONY MOVIES FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181584
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US| USA NETWORK EAST HD" tvg-logo="https://lo1.in/us/usw.png" group-title="AM | USA CINEMA",US| USA NETWORK EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13612
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US| TNT EAST FHD" tvg-logo="https://lo1.in/us/tnt.png" group-title="AM | USA CINEMA",US| TNT EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/212536
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US| TBS EAST HD" tvg-logo="https://lo1.in/us/tbs.png" group-title="AM | USA CINEMA",US| TBS EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/176677
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US| TBS WEST FHD" tvg-logo="https://lo1.in/us/tbw.png" group-title="AM | USA CINEMA",US| TBS WEST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/176754
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US| TV LAND EAST HD" tvg-logo="https://lo1.in/us/tvl.png" group-title="AM | USA CINEMA",US| TV LAND EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181555
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US| TCM HD" tvg-logo="https://lo1.in/usa/tcm.png" group-title="AM | USA CINEMA",US| TCM HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181603
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US| STARZ CINEMA FHD" tvg-logo="https://lo1.in/usa/strz.png" group-title="AM | USA CINEMA",US| STARZ CINEMA FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/170173
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US| STARZ WEST FHD" tvg-logo="https://lo1.in/usa/srzw.png" group-title="AM | USA CINEMA",US| STARZ WEST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400230191
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US| STARZ EDGE EAST FHD" tvg-logo="https://lo1.in/usa/stae.png" group-title="AM | USA CINEMA",US| STARZ EDGE EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13626
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US| STARZ COMEDY EAST FHD" tvg-logo="https://lo1.in/usa/strc.png" group-title="AM | USA CINEMA",US| STARZ COMEDY EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13625
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US| STARZ COMEDY WEST HD" tvg-logo="https://lo1.in/usa/strc.png" group-title="AM | USA CINEMA",US| STARZ COMEDY WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400230200
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US| STARZ ENCORE EAST HD" tvg-logo="https://lo1.in/usa/strzb.png" group-title="AM | USA CINEMA",US| STARZ ENCORE EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181566
+#EXTINF:-1 tvg-id="starzencorewest.us" tvg-name="US| STARZ ENCORE WEST HD" tvg-logo="https://lo1.in/usa/strzb.png" group-title="AM | USA CINEMA",US| STARZ ENCORE WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400230192
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US| STARZ ENCORE BLACK FHD" tvg-logo="https://lo1.in/usa/strzbbl.png" group-title="AM | USA CINEMA",US| STARZ ENCORE BLACK FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181574
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US| STARZ ENCORE CLASSIC FHD" tvg-logo="https://lo1.in/usa/strzbcl.png" group-title="AM | USA CINEMA",US| STARZ ENCORE CLASSIC FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181573
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US| STARZ ENCORE FAMILY FHD" tvg-logo="https://lo1.in/usa/strzbf.png" group-title="AM | USA CINEMA",US| STARZ ENCORE FAMILY FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181572
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US| STARZ ENCORE ACTION EAST FHD" tvg-logo="https://lo1.in/usa/strzbac.png" group-title="AM | USA CINEMA",US| STARZ ENCORE ACTION EAST FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181567
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US| STARZ ENCORE ACTION WEST HD" tvg-logo="https://lo1.in/usa/strzbac.png" group-title="AM | USA CINEMA",US| STARZ ENCORE ACTION WEST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400230202
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US| STARZ ENCORE WESTERNS  EAST HD" tvg-logo="https://lo1.in/usa/stcw1.png" group-title="AM | USA CINEMA",US| STARZ ENCORE WESTERNS  EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/13628
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US| SHOWTIME EAST HD" tvg-logo="https://lo1.in/usa/smee.png" group-title="AM | USA CINEMA",US| SHOWTIME EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181564
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US| SHOWTIME 2 FHD" tvg-logo="https://lo1.in/us/shwt.png" group-title="AM | USA CINEMA",US| SHOWTIME 2 FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181563
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="US| SHOWTIME BET FHD" tvg-logo="https://lo1.in/usa/bet1.png" group-title="AM | USA CINEMA",US| SHOWTIME BET FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253113
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US| SHOWTIME EXTREME EAST HD" tvg-logo="https://lo1.in/usa/sex.png" group-title="AM | USA CINEMA",US| SHOWTIME EXTREME EAST HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181562
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US| SHOWTIME FAMILY ZONE FHD" tvg-logo="https://lo1.in/usa/swfam1.png" group-title="AM | USA CINEMA",US| SHOWTIME FAMILY ZONE FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253114
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US| SHOWTIME WOMEN FHD" tvg-logo="https://lo1.in/usa/stmn.png" group-title="AM | USA CINEMA",US| SHOWTIME WOMEN FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253116
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US| SHOWTIME NEXT HD" tvg-logo="https://lo1.in/usa/stxn.png" group-title="AM | USA CINEMA",US| SHOWTIME NEXT HD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253115
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US| SHOWTIME SHOWCASE FHD EAST" tvg-logo="https://lo1.in/usa/stx.png" group-title="AM | USA CINEMA",US| SHOWTIME SHOWCASE FHD EAST
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/253112
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN MOVIES" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/364fad7e-4487-4354-b672-e9124373d5bf/da8fh4y-cc885ba1-b3b2-491c-a2dc-a9b5c70ff284.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM2NGZhZDdlLTQ0ODctNDM1NC1iNjcyLWU5MTI0MzczZDViZlwvZGE4Zmg0eS1jYzg4NWJhMS1iM2IyLTQ5MWMtYTJkYy1hOWI1YzcwZmYyODQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RE4ouHRoScf4uNc68KgdGvda9qRlX1mS379Vr4ajxE4" group-title="24/7 | ENGLISH",24/7 BATMAN MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY MOVIES" tvg-logo="https://www.pngall.com/wp-content/uploads/2018/05/Disney-Logo-PNG-File.png" group-title="24/7 | ENGLISH",24/7 DISNEY MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DISNEY MOVIES 2" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dhih53u-d9c14266-35b9-4a06-9c50-acac39d17c42.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGhpaDUzdS1kOWMxNDI2Ni0zNWI5LTRhMDYtOWM1MC1hY2FjMzlkMTdjNDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x8NArS5znZ6kr2KasVLHJ2mRnyHQLo4m4UjbnQKijTY" group-title="24/7 | ENGLISH",24/7 DISNEY MOVIES 2
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HORROR MOVIES" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/957/856/small_2x/silhouette-of-the-bloody-filmstrip-sign-for-movie-icon-symbol-with-genre-horror-thriller-gore-sadistic-splatter-slasher-mystery-scary-or-halloween-poster-film-movie-format-png.png" group-title="24/7 | ENGLISH",24/7 HORROR MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THRILLER MOVIES" tvg-logo="https://images.moviesanywhere.com/7f4a7edc0f1a4ea679f1fff532d5956a/5f1447f1-382a-4939-bcf1-55eeb1b7de07.png?r=2x1&w=300" group-title="24/7 | ENGLISH",24/7 THRILLER MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379365
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STAR TREK MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Trek_Logo.png" group-title="24/7 | ENGLISH",24/7 STAR TREK MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379362
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPERHERO MOVIES" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/DC-Comics-Superhero-symbols.png" group-title="24/7 | ENGLISH",24/7 SUPERHERO MOVIES
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379364
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JAMES BOND" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/jamesbond.png" group-title="24/7 | ENGLISH",24/7 JAMES BOND
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/379358
+#EXTINF:-1 tvg-id="" tvg-name="24/7| DC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DC_Comics_logo.png/768px-DC_Comics_logo.png" group-title="24/7 | ENGLISH",24/7| DC
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400408260
+#EXTINF:-1 tvg-id="" tvg-name="24/7| MARVAL MCU" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2c4cda9-4e12-4935-9ed0-5a1fcb44784c/df7qfms-1e71b348-66a8-45fa-9d3e-bb45008deb0e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyYzRjZGE5LTRlMTItNDkzNS05ZWQwLTVhMWZjYjQ0Nzg0Y1wvZGY3cWZtcy0xZTcxYjM0OC02NmE4LTQ1ZmEtOWQzZS1iYjQ1MDA4ZGViMGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.e0o6aekiTZmBQPN39C6n51nf6DLBua1r485iBgg-aDk" group-title="24/7 | ENGLISH",24/7| MARVAL MCU
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400408125
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7-EN| Friends" tvg-logo="https://logohistory.net/wp-content/uploads/2023/05/Friends-Symbol.png" group-title="24/7 | ENGLISH",24/7-EN| Friends
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400481642
+#EXTINF:-1 tvg-id="" tvg-name="24/7-EN| The Lord of the Rings: The Rings of Power" tvg-logo="https://image.tmdb.org/t/p/original/2uDS3VQIDlNnwq3Mp8BsC7igftU.png" group-title="24/7 | ENGLISH",24/7-EN| The Lord of the Rings: The Rings of Power
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400481638
+#EXTINF:-1 tvg-id="" tvg-name="24/7-EN| EN| House of the Dragon" tvg-logo="https://image.tmdb.org/t/p/original/2McArFsvD3oiNRejBKrXE0hf1PQ.png" group-title="24/7 | ENGLISH",24/7-EN| EN| House of the Dragon
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400481636
+#EXTINF:-1 tvg-id="" tvg-name="24/7-EN| Game Of Thrones" tvg-logo="https://i.pinimg.com/originals/d7/04/b1/d704b182ac2454c67a73f41104602497.png" group-title="24/7 | ENGLISH",24/7-EN| Game Of Thrones
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/400481635
