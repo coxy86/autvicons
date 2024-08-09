@@ -1,58 +1,58 @@
 #EXTM3U x-tvg-url="https://magnetic.website/jet/epg.xml"
 
-#EXTINF:-1 channel-id="612" tvg-chno="612" tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="TNT Sports + Tennis" tvg-logo="https://www.tennischannel.app/image/original/0db3aebe-c081-4364-8619-1e742212b5eb.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL HD
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181415
-#EXTINF:-1 channel-id="700" tvg-chno="700" tvg-id="tennischannel.us" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL FHD
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181415
-#EXTINF:-1 channel-id="701" tvg-chno="701" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 1
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181353
-#EXTINF:-1 channel-id="702" tvg-chno="702" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 2
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181354
-#EXTINF:-1 channel-id="703" tvg-chno="703" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 3 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181367
-#EXTINF:-1 channel-id="704" tvg-chno="704" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 4 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181366
-#EXTINF:-1 channel-id="705" tvg-chno="705" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 5 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181365
-#EXTINF:-1 channel-id="706" tvg-chno="706" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 6 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181364
-#EXTINF:-1 channel-id="707" tvg-chno="707" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 7 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181363
-#EXTINF:-1 channel-id="708" tvg-chno="708" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 8 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181362
-#EXTINF:-1 channel-id="709" tvg-chno="709" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 9 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181361
-#EXTINF:-1 channel-id="710" tvg-chno="710" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 10 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181360
-#EXTINF:-1 channel-id="711" tvg-chno="711" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 11 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181359
-#EXTINF:-1 channel-id="712" tvg-chno="712" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 12 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181358
-#EXTINF:-1 channel-id="713" tvg-chno="713" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 13 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181357
-#EXTINF:-1 channel-id="714" tvg-chno="714" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 14 
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/181356
-#EXTINF:-1 channel-id="715" tvg-chno="715" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 15
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53056
-#EXTINF:-1 channel-id="716" tvg-chno="716" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 16
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53057
-#EXTINF:-1 channel-id="717" tvg-chno="717" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 17
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53058
-#EXTINF:-1 channel-id="718" tvg-chno="718" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 18
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53059
-#EXTINF:-1 channel-id="719" tvg-chno="719" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 19
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53060
-#EXTINF:-1 channel-id="720" tvg-chno="720" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 20
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53061
-#EXTINF:-1 channel-id="721" tvg-chno="721" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 21
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53062
-#EXTINF:-1 channel-id="722" tvg-chno="722" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 22
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53063
-#EXTINF:-1 channel-id="723" tvg-chno="723" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 23
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53064
-#EXTINF:-1 channel-id="724" tvg-chno="724" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 24
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53065
-#EXTINF:-1 channel-id="725" tvg-chno="725" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 25
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53066
-#EXTINF:-1 channel-id="726" tvg-chno="726" tvg-id="" tvg-name="TNT Sports + Tennis" tvg-logo="https://lo1.in/us/tp.png" group-title="TNT Sport + Tennis", TENNIS CHANNEL PLUS 26
-http://egmaeeg.mexamo.xyz:80/2912599849/4218812817/53067
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ USA TENNIS ✦●✦ " tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA PPV-LIVE EVENTS",✦●✦ USA TENNIS ✦●✦ 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/360032
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US| TENNIS CHANNEL FHD" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL FHD
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181415
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 1" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 1
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181353
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 2" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 2
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181354
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 3 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 3 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181367
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 4 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 4 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181366
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 5 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 5 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181365
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 6 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 6 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181364
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 7 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 7 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181363
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 8 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 8 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181362
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 9 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 9 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181361
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 10 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 10 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181360
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 11 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 11 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181359
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 12 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 12 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181358
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 13 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 13 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181357
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 14 " tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 14 
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/181356
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 15" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 15
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53056
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 16" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 16
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53057
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 17" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 17
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53058
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 18" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 18
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53059
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 19" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 19
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53060
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 20" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 20
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53061
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 21" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 21
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53062
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 22" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 22
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53063
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 23" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 23
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53064
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 24" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 24
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53065
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 25" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 25
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53066
+#EXTINF:-1 tvg-id="" tvg-name="US| TENNIS CHANNEL PLUS 26" tvg-logo="https://lo1.in/us/tp.png" group-title="AM | USA PPV-LIVE EVENTS",US| TENNIS CHANNEL PLUS 26
+http://uezerxp.mexamo.xyz:80/0169830126/1478437847/53067
