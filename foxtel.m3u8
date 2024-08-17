@@ -7,7 +7,7 @@
 
 https://live-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/e2d900847b994b4d9ffbd057f3d69623/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&end=2024-07-14T19%3A00%3A00+10%3A00&start=2024-07-14T15%3A00%3A03+10%3A00&aws.sessionId=f3905747-b8e3-483c-923a-c5331cd19a4b
 
-#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="Premiere HD SOD.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
+#EXTINF:-1 channel-id="401" group-title="Movies;Foxtel Go" tvg-chno="401" tvg-id="Premiere +2 SHO2.au" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=527476:206:CHANNEL:IMAGE:png&w=400#Movies%20Premiere|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Movies Premiere" , Movies Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://foxtelott.live.ott.irdeto.com/widevine/getlicense?CrmId=foxtelott&AccountId=foxtelott&ContentId=jit_543177&SessionId=662DE6BCDE00C201&Ticket=EAC9DC85C98A9750
