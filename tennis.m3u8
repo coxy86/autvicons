@@ -42,3 +42,14 @@ https://raw.githubusercontent.com/coxy86/autvicons/main/9now3.m3u8|user-agent=Mo
 #EXTINF:-1 group-title="beIN Sports Connect" tvg-chno="beinsports1" tvg-id="beinsports1" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png" , Paris Stream 4
 https://github.com/coxy86/autvicons/blob/main/9now3.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 tvg-id="US-The Tennis Channel" tvg-name="[SP] TENNIS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",[SP] TENNIS HD
+http://dm.lion-ott.com:80/live/7j7U4099/7P9x8384/487689.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[SP] TENNIS PLUS 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",[SP] TENNIS PLUS 1 HD
+http://dm.lion-ott.com:80/live/7j7U4099/7P9x8384/487688.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[SP] TENNIS PLUS 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",[SP] TENNIS PLUS 2 HD
+http://dm.lion-ott.com:80/live/7j7U4099/7P9x8384/487687.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[SP] TENNIS PLUS 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tennishd.png" group-title="|NA| USA SPORTS",[SP] TENNIS PLUS 3 HD
+http://dm.lion-ott.com:80/live/7j7U4099/7P9x8384/487686.m3u8
