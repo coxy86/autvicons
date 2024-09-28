@@ -9,5 +9,5 @@ http://192.168.115.202:5004/auto/v20
 #EXTINF:-1 channel-id="431563auepg.com.au" tvg-id="431563auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/10hdnew.png" tvg-chno="15" group-title="Melbourne" , 10 HD
 http://192.168.115.202:5004/auto/v1
 
-#EXTINF:-1 channel-id="431563auepg.com.au" tvg-id="431505auepg.com.au" tvg-logo="https://i.imgur.com/h5EC7gU.png" tvg-chno="15" group-title="Melbourne" , 9 HD
+#EXTINF:-1 channel-id="431563auepg.com.au" tvg-id="431505auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9-HD.png" tvg-chno="15" group-title="Melbourne" , 9 HD
 http://192.168.115.202:5004/auto/v90
