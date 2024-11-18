@@ -24,7 +24,7 @@ https://i.mjh.nz/.r/go-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%
 #EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9life.png" tvg-chno="94" group-title="Melbourne" , 9Life
 https://i.mjh.nz/.r/life-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/9rushnew.png" tvg-chno="96" group-title="Melbourne" , 9Rush
+#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/9Rush_2020.png/revision/latest/scale-to-width-down/1200?cb=20210323093606" tvg-chno="96" group-title="Melbourne" , 9Rush
 https://i.mjh.nz/.r/rush-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-abc-vic" tvg-id="mjh-abc-vic" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Melbourne" , ABC TV
