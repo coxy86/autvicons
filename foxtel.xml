@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="[VIC-Melbourne]FOX One">
+    <display-name lang="en">[VIC-Melbourne]FOX One</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/F1S/F1S_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]UKTV">
+    <display-name lang="en">[VIC-Melbourne]UKTV</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/UKT/UKT_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LST/LST_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX8">
+    <display-name lang="en">[VIC-Melbourne]FOX8</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOX/FOX_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX ARENA">
+    <display-name lang="en">[VIC-Melbourne]FOX ARENA</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/ARN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SHOWCASE">
+    <display-name lang="en">[VIC-Melbourne]FOX SHOWCASE</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHC/SHC_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Crime">
+    <display-name lang="en">[VIC-Melbourne]FOX Crime</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/IOI/IOI_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Comedy">
+    <display-name lang="en">[VIC-Melbourne]FOX Comedy</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HIT/HIT_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX DOCOS">
+    <display-name lang="en">[VIC-Melbourne]FOX DOCOS</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SAR/SAR_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sci Fi">
+    <display-name lang="en">[VIC-Melbourne]FOX Sci Fi</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FIS/FIS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Classics">
+    <display-name lang="en">[VIC-Melbourne]FOX Classics</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FKC/FKC_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sleuth">
+    <display-name lang="en">[VIC-Melbourne]FOX Sleuth</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSU/FSU_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BBC First">
+    <display-name lang="en">[VIC-Melbourne]BBC First</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BSF/BSF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Universal TV">
+    <display-name lang="en">[VIC-Melbourne]Universal TV</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/HAL_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Real Life">
+    <display-name lang="en">[VIC-Melbourne]Real Life</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RLS/RLS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]MTV">
+    <display-name lang="en">[VIC-Melbourne]MTV</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MTV/MTV_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]TLC">
+    <display-name lang="en">[VIC-Melbourne]TLC</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DTA/DTA_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle Food">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle Food</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOD/FOD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle Home">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle Home</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LHO/LHO_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]HISTORY">
+    <display-name lang="en">[VIC-Melbourne]HISTORY</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HST/HST_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]A&amp;E">
+    <display-name lang="en">[VIC-Melbourne]A&amp;E</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/AES/AES_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Discovery Channel">
+    <display-name lang="en">[VIC-Melbourne]Discovery Channel</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DIS/DIS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BBC Earth">
+    <display-name lang="en">[VIC-Melbourne]BBC Earth</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BBK/BBK_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]CRIME+INVESTIGATION">
+    <display-name lang="en">[VIC-Melbourne]CRIME+INVESTIGATION</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CIN/CIN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Investigation Discovery">
+    <display-name lang="en">[VIC-Melbourne]Investigation Discovery</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DID/DID_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Animal Planet">
+    <display-name lang="en">[VIC-Melbourne]Animal Planet</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ANI/ANI_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Discovery Turbo">
+    <display-name lang="en">[VIC-Melbourne]Discovery Turbo</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DIT/DIT_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]WWE">
+    <display-name lang="en">[VIC-Melbourne]WWE</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/WWS/WWS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BoxSets">
+    <display-name lang="en">[VIC-Melbourne]BoxSets</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/BXS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX One +2">
+    <display-name lang="en">[VIC-Melbourne]FOX One +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/F12/F12_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]UKTV+2">
+    <display-name lang="en">[VIC-Melbourne]UKTV+2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/UKT/UK2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle +2">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LST/LS2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX8+2">
+    <display-name lang="en">[VIC-Melbourne]FOX8+2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOX/FO2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX ARENA +2">
+    <display-name lang="en">[VIC-Melbourne]FOX ARENA +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/AR2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SHOWCASE +2">
+    <display-name lang="en">[VIC-Melbourne]FOX SHOWCASE +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHC/SW2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Crime +2">
+    <display-name lang="en">[VIC-Melbourne]FOX Crime +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/IOI/IO2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Comedy +2">
+    <display-name lang="en">[VIC-Melbourne]FOX Comedy +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HIT/HI2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sci Fi +2">
+    <display-name lang="en">[VIC-Melbourne]FOX Sci Fi +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FI2/FI2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Classics+2">
+    <display-name lang="en">[VIC-Melbourne]FOX Classics+2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FKC/CL2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sleuth +2">
+    <display-name lang="en">[VIC-Melbourne]FOX Sleuth +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS2/FS2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Real Life +2">
+    <display-name lang="en">[VIC-Melbourne]Real Life +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RLS/RL2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]TLC +2">
+    <display-name lang="en">[VIC-Melbourne]TLC +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DTA/DT2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle Food +2">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle Food +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOD/LF2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]A&amp;E +2">
+    <display-name lang="en">[VIC-Melbourne]A&amp;E +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/AES/E2A_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Discovery +2">
+    <display-name lang="en">[VIC-Melbourne]Discovery +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DIS/DS2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Discovery Turbo +2">
+    <display-name lang="en">[VIC-Melbourne]Discovery Turbo +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DIT/DI2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX One HD">
+    <display-name lang="en">[VIC-Melbourne]FOX One HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/F1H/F1H_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]LifeStyle HD">
+    <display-name lang="en">[VIC-Melbourne]LifeStyle HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LST/LSD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX8 HD">
+    <display-name lang="en">[VIC-Melbourne]FOX8 HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FOX/F8D_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX ARENA HD">
+    <display-name lang="en">[VIC-Melbourne]FOX ARENA HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ARN/ARD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SHOWCASE HD">
+    <display-name lang="en">[VIC-Melbourne]FOX SHOWCASE HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHC/SCD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Crime HD">
+    <display-name lang="en">[VIC-Melbourne]FOX Crime HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FCH/FCH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Comedy HD">
+    <display-name lang="en">[VIC-Melbourne]FOX Comedy HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HIT/HID_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sci Fi HD">
+    <display-name lang="en">[VIC-Melbourne]FOX Sci Fi HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSI/FSI_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX Sleuth HD">
+    <display-name lang="en">[VIC-Melbourne]FOX Sleuth HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSL/FSL_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BBC First HD">
+    <display-name lang="en">[VIC-Melbourne]BBC First HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BSF/BFF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Universal HD">
+    <display-name lang="en">[VIC-Melbourne]Universal HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/UND_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX DOCOS HD">
+    <display-name lang="en">[VIC-Melbourne]FOX DOCOS HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SAR/HAR_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]HISTORY HD">
+    <display-name lang="en">[VIC-Melbourne]HISTORY HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HST/HSD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]A&amp;E HD">
+    <display-name lang="en">[VIC-Melbourne]A&amp;E HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/AES/AED_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Discovery HD">
+    <display-name lang="en">[VIC-Melbourne]Discovery HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DIS/DHD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BBC Earth HD">
+    <display-name lang="en">[VIC-Melbourne]BBC Earth HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BBK/BKH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BoxSet HD">
+    <display-name lang="en">[VIC-Melbourne]BoxSet HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BXS/BXD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]WWE HD">
+    <display-name lang="en">[VIC-Melbourne]WWE HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/WWS/WWE_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Crime+Investigation HD">
+    <display-name lang="en">[VIC-Melbourne]Crime+Investigation HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CIN/CID_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Real Life HD">
+    <display-name lang="en">[VIC-Melbourne]Real Life HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RLS/RLH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Ultra HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Ultra HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/K02/K02_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Premiere">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Premiere</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHO/SHO_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Hits">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Hits</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MVS/MVS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Family">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Family</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHF/SHF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Kids">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Kids</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MO8/MO9_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Action">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Action</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHA/SHA_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Comedy">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Comedy</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHY/SHY_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Thriller">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Thriller</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/SHH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Romance">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Romance</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHD/SHD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Drama">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Drama</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MO6/MO6_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Greats">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Greats</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/GRR/GRR_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Lifetime Movie Network">
+    <display-name lang="en">[VIC-Melbourne]Lifetime Movie Network</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LMS/LMS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Premiere +2">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Premiere +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHO/SH2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Action +2">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Action +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHA/MTA_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Family +2">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Family +2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHF/MTF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Premiere HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Premiere HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHO/SOD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Hits HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Hits HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MVS/MVD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Family HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Family HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHF/MO7_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Kids HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Kids HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MO8/MO8_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Action HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Action HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHA/STN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Comedy HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Comedy HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHY/MO1_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Thriller HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Thriller HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHH/MO3_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Romance HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Romance HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SHD/MO2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Drama HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Drama HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MO6/MO5_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Foxtel Movies Greats HD">
+    <display-name lang="en">[VIC-Melbourne]Foxtel Movies Greats HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/GRR/GRE_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Lifetime Movie Network HD">
+    <display-name lang="en">[VIC-Melbourne]Lifetime Movie Network HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/LMS/LMH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Sports News">
+    <display-name lang="en">[VIC-Melbourne]Fox Sports News</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/FSN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX CRICKET">
+    <display-name lang="en">[VIC-Melbourne]FOX CRICKET</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX LEAGUE">
+    <display-name lang="en">[VIC-Melbourne]FOX LEAGUE</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 503">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 503</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Footy">
+    <display-name lang="en">[VIC-Melbourne]Fox Footy</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 505">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 505</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 506">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 506</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Sports More">
+    <display-name lang="en">[VIC-Melbourne]Fox Sports More</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN">
+    <display-name lang="en">[VIC-Melbourne]ESPN</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ESP/ESP_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN2">
+    <display-name lang="en">[VIC-Melbourne]ESPN2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/ES2_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Sports News HD">
+    <display-name lang="en">[VIC-Melbourne]Fox Sports News HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/FSD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX CRICKET HD">
+    <display-name lang="en">[VIC-Melbourne]FOX CRICKET HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/F1D_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX LEAGUE HD">
+    <display-name lang="en">[VIC-Melbourne]FOX LEAGUE HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/F2D_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 503 HD">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 503 HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FHD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox Footy HD">
+    <display-name lang="en">[VIC-Melbourne]Fox Footy HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 505 HD">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 505 HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/F4D_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS 506 HD">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS 506 HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPE_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX SPORTS MORE HD">
+    <display-name lang="en">[VIC-Melbourne]FOX SPORTS MORE HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSM_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN HD">
+    <display-name lang="en">[VIC-Melbourne]ESPN HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ESP/E1D_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]ESPN2 HD">
+    <display-name lang="en">[VIC-Melbourne]ESPN2 HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ES2/EHD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Sky News Extra">
+    <display-name lang="en">[VIC-Melbourne]Sky News Extra</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ASP/ASP_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Sky News UK">
+    <display-name lang="en">[VIC-Melbourne]Sky News UK</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SKY/SUK_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]BBC News">
+    <display-name lang="en">[VIC-Melbourne]BBC News</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BBC/BBC_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]FOX News">
+    <display-name lang="en">[VIC-Melbourne]FOX News</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FNC/FNC_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]CNN">
+    <display-name lang="en">[VIC-Melbourne]CNN</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CNN/CNN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]MSNBC">
+    <display-name lang="en">[VIC-Melbourne]MSNBC</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MSN/MSN_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]CNBC">
+    <display-name lang="en">[VIC-Melbourne]CNBC</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CNB/CNB_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Bloomberg Television">
+    <display-name lang="en">[VIC-Melbourne]Bloomberg Television</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BLM/BLM_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Sky News HD">
+    <display-name lang="en">[VIC-Melbourne]Sky News HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SKY/NHD_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Sky News UK HD">
+    <display-name lang="en">[VIC-Melbourne]Sky News UK HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SKY/SUH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Fox News HD">
+    <display-name lang="en">[VIC-Melbourne]Fox News HD</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FNC/FNH_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Cbeebies">
+    <display-name lang="en">[VIC-Melbourne]Cbeebies</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CBE/CBE_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Cartoon Network">
+    <display-name lang="en">[VIC-Melbourne]Cartoon Network</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CNE/CNE_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Boomerang">
+    <display-name lang="en">[VIC-Melbourne]Boomerang</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/BOO/BOO_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]DreamWorks">
+    <display-name lang="en">[VIC-Melbourne]DreamWorks</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/DRM/DRM_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]PBS KIDS">
+    <display-name lang="en">[VIC-Melbourne]PBS KIDS</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/PBS/PBS_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]MTV Hits">
+    <display-name lang="en">[VIC-Melbourne]MTV Hits</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/TMF/TMF_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Nick Music">
+    <display-name lang="en">[VIC-Melbourne]Nick Music</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/NMU/NMU_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]Club MTV">
+    <display-name lang="en">[VIC-Melbourne]Club MTV</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/VH1/VH1_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]MTV Classic">
+    <display-name lang="en">[VIC-Melbourne]MTV Classic</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/MTC/MTC_425x243.png"/>
+  </channel>
+  <channel id="[VIC-Melbourne]CMT">
+    <display-name lang="en">[VIC-Melbourne]CMT</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/CMT/CMT_425x243.png"/>
+  </channel>
+</tv>
