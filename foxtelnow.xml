@@ -1382,7 +1382,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207064500 +0000" stop="20241207074000 +0000" channel="F1S">
+  <programme start="20241207064000 +0000" stop="20241207073000 +0000" channel="F1S">
     <title lang="en">The Cleaning Lady</title>
     <sub-title lang="en">Sins Of The Father</sub-title>
     <desc lang="en">After Luca is kidnapped by his father, Thony enlists the FBI to find her son. Meanwhile, an incident involving Chris forces Fiona to shield her son by any means necessary.</desc>
@@ -1465,7 +1465,7 @@
       <value>M | L</value>
     </rating>
   </programme>
-  <programme start="20241207102000 +0000" stop="20241207105500 +0000" channel="F1S">
+  <programme start="20241207100500 +0000" stop="20241207104000 +0000" channel="F1S">
     <title lang="en">Based on a True Story</title>
     <sub-title lang="en">Based On A Drew Story</sub-title>
     <desc lang="en">Ava is determined to solve the mystery of Drew. Matt faces a critical moment in his 'murder sobriety' as he and Tory move forward with making the ultimate commitment to each other.</desc>
@@ -1484,7 +1484,7 @@
       <value>MA | V</value>
     </rating>
   </programme>
-  <programme start="20241207105500 +0000" stop="20241207115000 +0000" channel="F1S">
+  <programme start="20241207104000 +0000" stop="20241207113500 +0000" channel="F1S">
     <title lang="en">The Blacklist</title>
     <sub-title lang="en">Blair Foster</sub-title>
     <desc lang="en">When a corrupt lawyer is linked to a string of corporate cover-ups, Red helps the team investigate her operation. Sen. Panabaker and Cooper await a judge's decision on the fate of the Task Force.</desc>
@@ -1865,10 +1865,11 @@
       <value>M | V</value>
     </rating>
   </programme>
-  <channel id="UKH">
-    <display-name lang="en">[Foxtel] UKTV HD / UKH</display-name>
+  <channel id="UKT">
+    <display-name lang="en">[Foxtel] UKTV / UKT</display-name>
+    <icon src="https://www.yourtv.com.au/static/images/logos/uktv-b746557d.png"/>
   </channel>
-  <programme start="20241205000000 +0000" stop="20241205003800 +0000" channel="UKH">
+  <programme start="20241205000000 +0000" stop="20241205003800 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 4</sub-title>
     <desc lang="en">With guests Mist, Jayde Adams, Laurence Llewelyn-Bowen and Ellie Simmonds.</desc>
@@ -1888,7 +1889,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205003800 +0000" stop="20241205011700 +0000" channel="UKH">
+  <programme start="20241205003800 +0000" stop="20241205011700 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Levity</sub-title>
     <desc lang="en">Stephen Fry takes a light-hearted look at levity, levitation and lights with Josh Widdicombe, Sue Perkins, Frank Skinner and Alan Davies.</desc>
@@ -1907,7 +1908,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241205011700 +0000" stop="20241205015600 +0000" channel="UKH">
+  <programme start="20241205011700 +0000" stop="20241205015600 +0000" channel="UKT">
     <title lang="en">Richard Osman's House of Games</title>
     <sub-title lang="en">Episode 33</sub-title>
     <desc lang="en">Lolly Adefope, Dan Walker, Sarah Greene and Miles Jupp face some challenging quiz games.</desc>
@@ -1926,7 +1927,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205015600 +0000" stop="20241205035200 +0000" channel="UKH">
+  <programme start="20241205015600 +0000" stop="20241205035200 +0000" channel="UKT">
     <title lang="en">Midsomer Murders</title>
     <sub-title lang="en">Happy Families</sub-title>
     <desc lang="en">Barnaby and Winter investigate the death of Victor Karras, a manufacturer of exclusive board games, who appears to have been poisoned.</desc>
@@ -1951,7 +1952,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205035200 +0000" stop="20241205045800 +0000" channel="UKH">
+  <programme start="20241205035200 +0000" stop="20241205045800 +0000" channel="UKT">
     <title lang="en">New Tricks</title>
     <sub-title lang="en">The Fourth Man</sub-title>
     <desc lang="en">The team reinvestigate a 30-year-old safety deposit robbery and find themselves unwittingly drawn into a case involving high-level police corruption that threatens the future of UCOS.</desc>
@@ -1975,7 +1976,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241205045800 +0000" stop="20241205055700 +0000" channel="UKH">
+  <programme start="20241205045800 +0000" stop="20241205055700 +0000" channel="UKT">
     <title lang="en">Father Brown</title>
     <sub-title lang="en">The Time Machine</sub-title>
     <desc lang="en">Father Brown visits Jacob, who is determined to prove that a member of his family killed his father a year ago by using his new invention: a time machine.</desc>
@@ -2003,7 +2004,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241205055700 +0000" stop="20241205063500 +0000" channel="UKH">
+  <programme start="20241205055700 +0000" stop="20241205063500 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Liblabble</sub-title>
     <desc lang="en">Stephen Fry looks through a list of L-themed larks, or a 'liblabble', as he calls it. The Reverend Richard Coles, Sara Pascoe, Bill Bailey and Alan Davies are on the panel.</desc>
@@ -2022,7 +2023,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241205063500 +0000" stop="20241205071400 +0000" channel="UKH">
+  <programme start="20241205063500 +0000" stop="20241205071400 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Lethal</sub-title>
     <desc lang="en">Stephen Fry looks at the quite interesting side of all things lethal, with a deadly and dangerous panel of Bill Bailey, Sandi Toksvig, Jason Manford and Alan Davies.</desc>
@@ -2041,7 +2042,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205071400 +0000" stop="20241205075200 +0000" channel="UKH">
+  <programme start="20241205071400 +0000" stop="20241205075200 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">With guests Jo Brand, Lucy Martin, Amol Rajan and Joe Wilkinson.</desc>
@@ -2061,7 +2062,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205075200 +0000" stop="20241205082300 +0000" channel="UKH">
+  <programme start="20241205075200 +0000" stop="20241205082300 +0000" channel="UKT">
     <title lang="en">Emmerdale</title>
     <sub-title lang="en">Episode 10146</sub-title>
     <desc lang="en">Kim is devastated by Ross' news, but soon things turn out for the better, until Will comes face to face with Kim's enemy.</desc>
@@ -2082,7 +2083,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205082300 +0000" stop="20241205085300 +0000" channel="UKH">
+  <programme start="20241205082300 +0000" stop="20241205085300 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11421</sub-title>
     <desc lang="en">Max is taken back in for questioning. Lisa and Carla share an intimate moment.</desc>
@@ -2103,7 +2104,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205085300 +0000" stop="20241205093000 +0000" channel="UKH">
+  <programme start="20241205085300 +0000" stop="20241205093000 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7010</sub-title>
     <desc lang="en">There are huge consequences, following the previous day's fireworks. Jack's situation goes from bad to worse. Alfie faces another hurdle due to his cancer treatment.</desc>
@@ -2122,7 +2123,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205093000 +0000" stop="20241205104200 +0000" channel="UKH">
+  <programme start="20241205093000 +0000" stop="20241205104200 +0000" channel="UKT">
     <title lang="en">Who Do You Think You Are? UK</title>
     <sub-title lang="en">Dev Griffin</sub-title>
     <desc lang="en">Dev Griffin uncovers fascinating tales from his Irish and Jamaican ancestry.</desc>
@@ -2146,7 +2147,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205104200 +0000" stop="20241205115500 +0000" channel="UKH">
+  <programme start="20241205104200 +0000" stop="20241205115500 +0000" channel="UKT">
     <title lang="en">Dragons' Den</title>
     <sub-title lang="en">Episode 12</sub-title>
     <desc lang="en">Guest Dragon Emma Grede returns to the Den.</desc>
@@ -2166,7 +2167,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205115500 +0000" stop="20241205125600 +0000" channel="UKH">
+  <programme start="20241205115500 +0000" stop="20241205125600 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">Jimmy is joined by guests Rhod Gilbert and Sara Pascoe, with Johnny Vegas in Dictionary Corner.</desc>
@@ -2186,7 +2187,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241205125600 +0000" stop="20241205134300 +0000" channel="UKH">
+  <programme start="20241205125600 +0000" stop="20241205134300 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">Jimmy is joined by guests Rob Beckett and Katherine Ryan, with Greg Davies in Dictionary Corner.</desc>
@@ -2206,7 +2207,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241205134300 +0000" stop="20241205143100 +0000" channel="UKH">
+  <programme start="20241205134300 +0000" stop="20241205143100 +0000" channel="UKT">
     <title lang="en">Father Brown</title>
     <sub-title lang="en">The Time Machine</sub-title>
     <desc lang="en">Father Brown visits Jacob, who is determined to prove that a member of his family killed his father a year ago by using his new invention: a time machine.</desc>
@@ -2234,7 +2235,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241205143100 +0000" stop="20241205152600 +0000" channel="UKH">
+  <programme start="20241205143100 +0000" stop="20241205152600 +0000" channel="UKT">
     <title lang="en">New Tricks</title>
     <sub-title lang="en">The Fourth Man</sub-title>
     <desc lang="en">The team reinvestigate a 30-year-old safety deposit robbery and find themselves unwittingly drawn into a case involving high-level police corruption that threatens the future of UCOS.</desc>
@@ -2258,7 +2259,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241205152600 +0000" stop="20241205170400 +0000" channel="UKH">
+  <programme start="20241205152600 +0000" stop="20241205170400 +0000" channel="UKT">
     <title lang="en">Lewis</title>
     <sub-title lang="en">Old, Unhappy, Far Off Things</sub-title>
     <desc lang="en">Oxford's last all-female college is throwing a Gaudy for its old girls. However, one of the guests is found at the bottom of a set of stairs - murdered.</desc>
@@ -2282,7 +2283,7 @@
       <value>M | D,S,A,V</value>
     </rating>
   </programme>
-  <programme start="20241205170400 +0000" stop="20241205175300 +0000" channel="UKH">
+  <programme start="20241205170400 +0000" stop="20241205175300 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Perish Together As Fools</sub-title>
     <desc lang="en">Edith seems to be moving in on the Doc, but a scare over Louisa's pregnancy and a subsequent scan seem to be thawing him.</desc>
@@ -2306,7 +2307,7 @@
       <value>M | A,D</value>
     </rating>
   </programme>
-  <programme start="20241205175300 +0000" stop="20241205190000 +0000" channel="UKH">
+  <programme start="20241205175300 +0000" stop="20241205184300 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">Jimmy is joined by guests Rhod Gilbert and Sara Pascoe, with Johnny Vegas in Dictionary Corner.</desc>
@@ -2326,7 +2327,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241205190000 +0000" stop="20241205193000 +0000" channel="UKH">
+  <programme start="20241205184300 +0000" stop="20241205192200 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">With guests Jo Brand, Lucy Martin, Amol Rajan and Joe Wilkinson.</desc>
@@ -2346,7 +2347,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205193000 +0000" stop="20241205200500 +0000" channel="UKH">
+  <programme start="20241205192200 +0000" stop="20241205200100 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Lethal</sub-title>
     <desc lang="en">Stephen Fry looks at the quite interesting side of all things lethal, with a deadly and dangerous panel of Bill Bailey, Sandi Toksvig, Jason Manford and Alan Davies.</desc>
@@ -2365,7 +2366,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205200500 +0000" stop="20241205203500 +0000" channel="UKH">
+  <programme start="20241205200100 +0000" stop="20241205203300 +0000" channel="UKT">
     <title lang="en">Emmerdale</title>
     <sub-title lang="en">Episode 10146</sub-title>
     <desc lang="en">Kim is devastated by Ross' news, but soon things turn out for the better, until Will comes face to face with Kim's enemy.</desc>
@@ -2385,7 +2386,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205203500 +0000" stop="20241205210500 +0000" channel="UKH">
+  <programme start="20241205203300 +0000" stop="20241205210200 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11421</sub-title>
     <desc lang="en">Max is taken back in for questioning. Lisa and Carla share an intimate moment.</desc>
@@ -2405,7 +2406,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205210500 +0000" stop="20241205214000 +0000" channel="UKH">
+  <programme start="20241205210200 +0000" stop="20241205214100 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7010</sub-title>
     <desc lang="en">There are huge consequences, following the previous day's fireworks. Jack's situation goes from bad to worse. Alfie faces another hurdle due to his cancer treatment.</desc>
@@ -2423,7 +2424,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205214000 +0000" stop="20241205225500 +0000" channel="UKH">
+  <programme start="20241205214100 +0000" stop="20241205225200 +0000" channel="UKT">
     <title lang="en">Dragons' Den</title>
     <sub-title lang="en">Episode 7</sub-title>
     <desc lang="en">Two business partners offer up their product as the solution to the plastic bag problem.</desc>
@@ -2443,7 +2444,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205225500 +0000" stop="20241205235500 +0000" channel="UKH">
+  <programme start="20241205225200 +0000" stop="20241205235100 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Driving Mr McLynn</sub-title>
     <desc lang="en">The Doc is appalled to discover that Louisa is moving furniture, and by her decision to interview for her old job as head teacher.</desc>
@@ -2467,7 +2468,7 @@
       <value>M | A,D</value>
     </rating>
   </programme>
-  <programme start="20241205235500 +0000" stop="20241206003000 +0000" channel="UKH">
+  <programme start="20241205235100 +0000" stop="20241206002900 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">With guests Jo Brand, Lucy Martin, Amol Rajan and Joe Wilkinson.</desc>
@@ -2487,7 +2488,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206003000 +0000" stop="20241206010500 +0000" channel="UKH">
+  <programme start="20241206002900 +0000" stop="20241206010800 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Liblabble</sub-title>
     <desc lang="en">Stephen Fry looks through a list of L-themed larks, or a 'liblabble', as he calls it. The Reverend Richard Coles, Sara Pascoe, Bill Bailey and Alan Davies are on the panel.</desc>
@@ -2506,7 +2507,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241206010500 +0000" stop="20241206014000 +0000" channel="UKH">
+  <programme start="20241206010500 +0000" stop="20241206014000 +0000" channel="UKT">
     <title lang="en">Richard Osman's House of Games</title>
     <sub-title lang="en">Episode 34</sub-title>
     <desc lang="en">Lolly Adefope, Dan Walker, Sarah Greene and Miles Jupp face some challenging quiz games.</desc>
@@ -2525,7 +2526,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206014000 +0000" stop="20241206035000 +0000" channel="UKH">
+  <programme start="20241206014600 +0000" stop="20241206034300 +0000" channel="UKT">
     <title lang="en">Midsomer Murders</title>
     <sub-title lang="en">The Scarecrow Murders</sub-title>
     <desc lang="en">The annual Midsomer Scarecrow Festival takes a grisly turn as bodies begin appearing on poles displayed alongside their straw creations.</desc>
@@ -2550,7 +2551,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206035000 +0000" stop="20241206045500 +0000" channel="UKH">
+  <programme start="20241206034300 +0000" stop="20241206044900 +0000" channel="UKT">
     <title lang="en">New Tricks</title>
     <sub-title lang="en">Old Fossils</sub-title>
     <desc lang="en">When pathologist Bob Ruxton is suspended on the grounds of negligence UCOS must reopen one of his cases.</desc>
@@ -2576,7 +2577,7 @@
       <value>M | V,S</value>
     </rating>
   </programme>
-  <programme start="20241206045500 +0000" stop="20241206055500 +0000" channel="UKH">
+  <programme start="20241206044900 +0000" stop="20241206054800 +0000" channel="UKT">
     <title lang="en">Father Brown</title>
     <sub-title lang="en">The Standing Stones</sub-title>
     <desc lang="en">A death at the stone circle of a polio-stricken village leads Father Brown to conclude that dark forces are at work and that another sacrifice may be imminent.</desc>
@@ -2604,7 +2605,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241206055500 +0000" stop="20241206063000 +0000" channel="UKH">
+  <programme start="20241206054800 +0000" stop="20241206062700 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Lovely</sub-title>
     <desc lang="en">Stephen Fry looks into love with the rather lovely Josh Widdicombe, Aisling Bea, Tony Hawks and Alan Davies.</desc>
@@ -2623,7 +2624,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241206063000 +0000" stop="20241206070500 +0000" channel="UKH">
+  <programme start="20241206063000 +0000" stop="20241206070500 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Ladies And Gents</sub-title>
     <desc lang="en">Stephen Fry hosts the quiz show in which the aim is to be interesting. The ladies and gents on the panel are Ross Noble, Kathy Lette, Sue Perkins and Alan Davies.</desc>
@@ -2642,7 +2643,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241206070500 +0000" stop="20241206074000 +0000" channel="UKH">
+  <programme start="20241206070700 +0000" stop="20241206074600 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 6</sub-title>
     <desc lang="en">With guests Munya Chawawa, Bob Mortimer, Professor Alice Roberts and Snoochie Shy.</desc>
@@ -2662,7 +2663,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206074000 +0000" stop="20241206081500 +0000" channel="UKH">
+  <programme start="20241206074600 +0000" stop="20241206081800 +0000" channel="UKT">
     <title lang="en">Emmerdale</title>
     <sub-title lang="en">Episode 10147</sub-title>
     <desc lang="en">Sam is furious, Bells is back, and Tom is back on his old tricks. Kim is impatient.</desc>
@@ -2683,7 +2684,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206081500 +0000" stop="20241206085000 +0000" channel="UKH">
+  <programme start="20241206081500 +0000" stop="20241206085000 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11422</sub-title>
     <desc lang="en">Carla and Betsy have a heart-to-heart. Lauren asks Max to take care of Frankie while she is in prison.</desc>
@@ -2704,7 +2705,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206085000 +0000" stop="20241206093000 +0000" channel="UKH">
+  <programme start="20241206085200 +0000" stop="20241206093200 +0000" channel="UKT">
     <title lang="en">The Vicar of Dibley</title>
     <sub-title lang="en">The Window And The Weather</sub-title>
     <desc lang="en">When Dibley is hit by a hurricane that blows out the stained glass window of the church, Geraldine approaches one of David's rich friends to try to persuade him to donate the money to repair it.</desc>
@@ -2728,7 +2729,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206093000 +0000" stop="20241206113000 +0000" channel="UKH">
+  <programme start="20241206093200 +0000" stop="20241206113300 +0000" channel="UKT">
     <title lang="en">Lewis</title>
     <sub-title lang="en">Whom The Gods Would Destroy</sub-title>
     <desc lang="en">When a middle-aged Oxford graduate is found dead near his run-down Oxford houseboat, Lewis and Hathaway are thrown into a delicate murder case.</desc>
@@ -2752,7 +2753,7 @@
       <value>M | V,A,D</value>
     </rating>
   </programme>
-  <programme start="20241206113000 +0000" stop="20241206123000 +0000" channel="UKH">
+  <programme start="20241206113300 +0000" stop="20241206123300 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Team captains Jonathan Ross and Alan Carr are joined by Rusell Kane, Judi Love and Josh Jones in the Dictionary Corner.</desc>
@@ -2772,7 +2773,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241206123000 +0000" stop="20241206133000 +0000" channel="UKH">
+  <programme start="20241206123300 +0000" stop="20241206132800 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 2</sub-title>
     <desc lang="en">Joining team captains Jonathan Ross and Alan Carr are Harriet Kemsley, Maisie Adam and Huge Davies in the Dictionary Corner.</desc>
@@ -2792,7 +2793,7 @@
       <value>M | L,S,A</value>
     </rating>
   </programme>
-  <programme start="20241206133000 +0000" stop="20241206142000 +0000" channel="UKH">
+  <programme start="20241206132800 +0000" stop="20241206141700 +0000" channel="UKT">
     <title lang="en">Father Brown</title>
     <sub-title lang="en">The Standing Stones</sub-title>
     <desc lang="en">A death at the stone circle of a polio-stricken village leads Father Brown to conclude that dark forces are at work and that another sacrifice may be imminent.</desc>
@@ -2820,7 +2821,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241206142000 +0000" stop="20241206151500 +0000" channel="UKH">
+  <programme start="20241206141700 +0000" stop="20241206151400 +0000" channel="UKT">
     <title lang="en">New Tricks</title>
     <sub-title lang="en">Old Fossils</sub-title>
     <desc lang="en">When pathologist Bob Ruxton is suspended on the grounds of negligence UCOS must reopen one of his cases.</desc>
@@ -2846,7 +2847,7 @@
       <value>M | V,S</value>
     </rating>
   </programme>
-  <programme start="20241206151500 +0000" stop="20241206165000 +0000" channel="UKH">
+  <programme start="20241206151400 +0000" stop="20241206165200 +0000" channel="UKT">
     <title lang="en">Lewis</title>
     <sub-title lang="en">Wild Justice</sub-title>
     <desc lang="en">Lewis and Hathaway enter the archaic world of St Gerard's college when a visiting female bishop is found dead. Was she murdered because of her liberal views?</desc>
@@ -2870,7 +2871,7 @@
       <value>M | D,S,A,V</value>
     </rating>
   </programme>
-  <programme start="20241206165000 +0000" stop="20241206174000 +0000" channel="UKH">
+  <programme start="20241206165200 +0000" stop="20241206174100 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Driving Mr McLynn</sub-title>
     <desc lang="en">The Doc is appalled to discover that Louisa is moving furniture, and by her decision to interview for her old job as head teacher.</desc>
@@ -2894,7 +2895,7 @@
       <value>M | A,D</value>
     </rating>
   </programme>
-  <programme start="20241206174000 +0000" stop="20241206183000 +0000" channel="UKH">
+  <programme start="20241206174100 +0000" stop="20241206183100 +0000" channel="UKT">
     <title lang="en">8 Out of 10 Cats Does Countdown</title>
     <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Team captains Jonathan Ross and Alan Carr are joined by Rusell Kane, Judi Love and Josh Jones in the Dictionary Corner.</desc>
@@ -2914,7 +2915,7 @@
       <value>M | L,S</value>
     </rating>
   </programme>
-  <programme start="20241206183000 +0000" stop="20241206190000 +0000" channel="UKH">
+  <programme start="20241206183100 +0000" stop="20241206190200 +0000" channel="UKT">
     <title lang="en">Richard Osman's House of Games</title>
     <sub-title lang="en">Episode 31</sub-title>
     <desc lang="en">Lolly Adefope, Dan Walker, Sarah Greene and Miles Jupp face some challenging quiz games.</desc>
@@ -2933,7 +2934,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206190000 +0000" stop="20241206193000 +0000" channel="UKH">
+  <programme start="20241206190200 +0000" stop="20241206194000 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 7</sub-title>
     <desc lang="en">Guests Joel Dommett, Sindhu Vee, Alex Horne and AJ Odudu join Rob Brydon, Lee Mack and David Mitchell. But are they telling the truth, or are they making it all up?</desc>
@@ -2953,7 +2954,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206193000 +0000" stop="20241206200500 +0000" channel="UKH">
+  <programme start="20241206194000 +0000" stop="20241206201800 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 8</sub-title>
     <desc lang="en">Rob Brydon is back with captains Lee Mack and David Mitchell. Sorting the fact from the fiction this week are guests Maya Jama, Roisin Conaty, Roman Kemp and Dr Xand van Tulleken.</desc>
@@ -2973,7 +2974,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206200500 +0000" stop="20241206204000 +0000" channel="UKH">
+  <programme start="20241206201800 +0000" stop="20241206205600 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">H Animals</sub-title>
     <desc lang="en">Stephen Fry asks unanswerable questions about animals which begin with the letter H. The panellists on this episode are Ruby Wax, Ross Noble, Sean Lock and Alan Davies.</desc>
@@ -2996,7 +2997,7 @@
       <value>M | L,S,A</value>
     </rating>
   </programme>
-  <programme start="20241206204000 +0000" stop="20241206211500 +0000" channel="UKH">
+  <programme start="20241206205600 +0000" stop="20241206213400 +0000" channel="UKT">
     <title lang="en">QI</title>
     <sub-title lang="en">Happiness</sub-title>
     <desc lang="en">The panellists on this episode are Andy Hamilton, Rich Hall, Phill Jupitus and Alan Davies.</desc>
@@ -3019,7 +3020,7 @@
       <value>M | L,S,A</value>
     </rating>
   </programme>
-  <programme start="20241206211500 +0000" stop="20241206222500 +0000" channel="UKH">
+  <programme start="20241206213400 +0000" stop="20241206224000 +0000" channel="UKT">
     <title lang="en">New Tricks</title>
     <sub-title lang="en">Prodigial Sons</sub-title>
     <desc lang="en">With Sasha back in fighting form, UCOS investigate the death of a cricket prodigy.</desc>
@@ -3038,7 +3039,7 @@
       <value>M | A,L,V</value>
     </rating>
   </programme>
-  <programme start="20241206222500 +0000" stop="20241206233500 +0000" channel="UKH">
+  <programme start="20241206224000 +0000" stop="20241206235300 +0000" channel="UKT">
     <title lang="en">Dragons' Den</title>
     <sub-title lang="en">Episode 10</sub-title>
     <desc lang="en">The creator of a mystery puzzle game tries to get past go.</desc>
@@ -3058,7 +3059,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206233500 +0000" stop="20241207000500 +0000" channel="UKH">
+  <programme start="20241206235300 +0000" stop="20241207002500 +0000" channel="UKT">
     <title lang="en">Travel Man</title>
     <sub-title lang="en">Helsinki</sub-title>
     <desc lang="en">In Helsinki, Richard takes Paul Rudd on a sightseeing tour by kayak. They take a foraging class to try and gather their own lunch and offset this by visiting the world's only fast food.</desc>
@@ -3078,7 +3079,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207000500 +0000" stop="20241207010500 +0000" channel="UKH">
+  <programme start="20241207002500 +0000" stop="20241207012500 +0000" channel="UKT">
     <title lang="en">Joanna Lumley's Trans-Siberian Adventure</title>
     <sub-title lang="en">Episode 3</sub-title>
     <desc lang="en">Joanna is in deepest Siberia, heading for Moscow on the final leg of her epic journey aboard the Trans-Siberian Railway.</desc>
@@ -3097,7 +3098,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207010500 +0000" stop="20241207022000 +0000" channel="UKH">
+  <programme start="20241207012500 +0000" stop="20241207023700 +0000" channel="UKT">
     <title lang="en">Who Do You Think You Are? UK</title>
     <sub-title lang="en">Kate Winslet</sub-title>
     <desc lang="en">Oscar-winning actor Kate Winslet follows a rumour of Scandinavian ancestry on her mother's side of the family and is delighted to find that she has Swedish heritage.</desc>
@@ -3117,7 +3118,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207022000 +0000" stop="20241207042500 +0000" channel="UKH">
+  <programme start="20241207023700 +0000" stop="20241207044300 +0000" channel="UKT">
     <title lang="en">Midsomer Murders</title>
     <sub-title lang="en">Ring Out Your Dead</sub-title>
     <desc lang="en">In the village of Midsomer Wellow, someone is killing off the bellringers of the parish church, in the week before a big bell-ringing competition.</desc>
@@ -3143,7 +3144,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241207042500 +0000" stop="20241207063500 +0000" channel="UKH">
+  <programme start="20241207044300 +0000" stop="20241207065000 +0000" channel="UKT">
     <title lang="en">Midsomer Murders</title>
     <sub-title lang="en">Murder On St Malley's Day</sub-title>
     <desc lang="en">After a murderous chain of events at the imposing Devington School, Barnaby and Troy will need inside information to catch a killer who is obsessed by loyalty to the school.</desc>
@@ -3168,7 +3169,7 @@
       <value>M | A,V</value>
     </rating>
   </programme>
-  <programme start="20241207063500 +0000" stop="20241207073500 +0000" channel="UKH">
+  <programme start="20241207065000 +0000" stop="20241207075000 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Guess Who's Coming To Dinner?</sub-title>
     <desc lang="en">Martin and Louisa invite the chairman of her school's board of governors for dinner, but the evening ends in disaster.</desc>
@@ -3198,7 +3199,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207073500 +0000" stop="20241207085000 +0000" channel="UKH">
+  <programme start="20241207075000 +0000" stop="20241207090400 +0000" channel="UKT">
     <title lang="en">Dragons' Den</title>
     <sub-title lang="en">Episode 6</sub-title>
     <desc lang="en">Best friends from London face a roasting over their mood-enhancing coffee products.</desc>
@@ -3218,7 +3219,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207085000 +0000" stop="20241207093000 +0000" channel="UKH">
+  <programme start="20241207085000 +0000" stop="20241207093000 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 6</sub-title>
     <desc lang="en">With guests Lady Leshurr, Philippa Perry, Alan Titchmarsh and Mike Wozniak.</desc>
@@ -3242,7 +3243,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207093000 +0000" stop="20241207113500 +0000" channel="UKH">
+  <programme start="20241207094200 +0000" stop="20241207113900 +0000" channel="UKT">
     <title lang="en">Midsomer Murders</title>
     <sub-title lang="en">The Dark Rider</sub-title>
     <desc lang="en">The appearance of a headless horseman at Quitewell Hall foreshadows a number of deaths among the aristocratic DeQuettevilles family, but what is the truth about the DeQuettevilles and the ghostly rider?</desc>
@@ -3267,7 +3268,7 @@
       <value>M | L,A</value>
     </rating>
   </programme>
-  <programme start="20241207113500 +0000" stop="20241207123500 +0000" channel="UKH">
+  <programme start="20241207113900 +0000" stop="20241207123700 +0000" channel="UKT">
     <title lang="en">Mallorca Files</title>
     <sub-title lang="en">King Of The Mountains</sub-title>
     <desc lang="en">When top Mallorcan cyclist Esteban Domenech vanishes while on a routine training session, Miranda and Max take advantage of the absence of Ines to investigate.</desc>
@@ -3286,7 +3287,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207123500 +0000" stop="20241207133000 +0000" channel="UKH">
+  <programme start="20241207123700 +0000" stop="20241207132900 +0000" channel="UKT">
     <title lang="en">Mallorca Files</title>
     <sub-title lang="en">The Oligarch's Icon</sub-title>
     <desc lang="en">Miranda and Max enter the world of Russian oligarchs after the famous icon of St Nicholas is stolen by a masked assailant in front of a shocked crowd.</desc>
@@ -3305,7 +3306,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207133000 +0000" stop="20241207140000 +0000" channel="UKH">
+  <programme start="20241207132900 +0000" stop="20241207140100 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7007</sub-title>
     <desc lang="en">Teddy tries to help a friend in need. Alfie attempts to build bridges in the Slater family. Barney returns from a visit with his mum.</desc>
@@ -3323,7 +3324,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207140000 +0000" stop="20241207143000 +0000" channel="UKH">
+  <programme start="20241207140100 +0000" stop="20241207143300 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7008</sub-title>
     <desc lang="en">Bianca has a breakthrough, Kat and Alfie face a difficult meeting, and Penny is deeply hurt by Jack's behaviour.</desc>
@@ -3341,7 +3342,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207143000 +0000" stop="20241207150000 +0000" channel="UKH">
+  <programme start="20241207143300 +0000" stop="20241207150500 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7009</sub-title>
     <desc lang="en">Sparks fly on bonfire night. Harry enjoys putting pressure on Jack. Stacey and Jean offer sage advice.</desc>
@@ -3359,7 +3360,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207150000 +0000" stop="20241207153500 +0000" channel="UKH">
+  <programme start="20241207150500 +0000" stop="20241207153700 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7010</sub-title>
     <desc lang="en">There are huge consequences, following the previous day's fireworks. Jack's situation goes from bad to worse. Alfie faces another hurdle due to his cancer treatment.</desc>
@@ -3377,7 +3378,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207153500 +0000" stop="20241207160000 +0000" channel="UKH">
+  <programme start="20241207153700 +0000" stop="20241207160300 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11418</sub-title>
     <desc lang="en">Dee Dee reveals she's pregnant. David lies to Shona about the e-mail from the prison.</desc>
@@ -3397,7 +3398,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207160000 +0000" stop="20241207163000 +0000" channel="UKH">
+  <programme start="20241207160300 +0000" stop="20241207162600 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11419</sub-title>
     <desc lang="en">Shona is stunned by a revelation from Lauren. Mason's brothers get their revenge on Tim.</desc>
@@ -3417,7 +3418,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207163000 +0000" stop="20241207165500 +0000" channel="UKH">
+  <programme start="20241207162600 +0000" stop="20241207165400 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11420</sub-title>
     <desc lang="en">Lauren comes clean. Mason saves Tim from a beating.</desc>
@@ -3437,7 +3438,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207165500 +0000" stop="20241207172500 +0000" channel="UKH">
+  <programme start="20241207165500 +0000" stop="20241207172500 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11421</sub-title>
     <desc lang="en">Max is taken back in for questioning. Lisa and Carla share an intimate moment.</desc>
@@ -3457,7 +3458,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207172500 +0000" stop="20241207175500 +0000" channel="UKH">
+  <programme start="20241207171800 +0000" stop="20241207174600 +0000" channel="UKT">
     <title lang="en">Coronation Street</title>
     <sub-title lang="en">Episode 11422</sub-title>
     <desc lang="en">Carla and Betsy have a heart-to-heart. Lauren asks Max to take care of Frankie while she is in prison.</desc>
@@ -3477,7 +3478,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207175500 +0000" stop="20241207182500 +0000" channel="UKH">
+  <programme start="20241207175500 +0000" stop="20241207182500 +0000" channel="UKT">
     <title lang="en">Travel Man</title>
     <sub-title lang="en">Helsinki</sub-title>
     <desc lang="en">In Helsinki, Richard takes Paul Rudd on a sightseeing tour by kayak. They take a foraging class to try and gather their own lunch and offset this by visiting the world's only fast food.</desc>
@@ -3497,7 +3498,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207182500 +0000" stop="20241207190000 +0000" channel="UKH">
+  <programme start="20241207181200 +0000" stop="20241207190000 +0000" channel="UKT">
     <title lang="en">Richard Osman's House of Games</title>
     <sub-title lang="en">Episode 32</sub-title>
     <desc lang="en">Lolly Adefope, Dan Walker, Sarah Greene and Miles Jupp face some challenging quiz games.</desc>
@@ -3516,7 +3517,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207190000 +0000" stop="20241207195500 +0000" channel="UKH">
+  <programme start="20241207190000 +0000" stop="20241207195500 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">The Family Way</sub-title>
     <desc lang="en">Dr Martin Ellingham's parents, Christopher and Margaret, make a surprise visit to Cornwall. The Doc is puzzled why they should turn up out of the blue to see him. The true reason comes to light when Martin takes them to see Aunt Joan.</desc>
@@ -3542,7 +3543,7 @@
       <value>M | A</value>
     </rating>
   </programme>
-  <programme start="20241207195500 +0000" stop="20241207205500 +0000" channel="UKH">
+  <programme start="20241207195500 +0000" stop="20241207205500 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Out Of The Woods</sub-title>
     <desc lang="en">PC Mark Mylow's wedding plans are put in jeopardy when he suffers a deadly snake bite on his stag night. As he deteriorates, Al is desperate to get help, and manages to phone the doctor, but can't tell them where they are located.</desc>
@@ -3568,7 +3569,7 @@
       <value>M | A</value>
     </rating>
   </programme>
-  <programme start="20241207205500 +0000" stop="20241207215500 +0000" channel="UKH">
+  <programme start="20241207205500 +0000" stop="20241207215500 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Erotomania</sub-title>
     <desc lang="en">A man arrives to try to trace a missing woman but encounters the curtness of the Doc. The woman's mother is desperately ill, and wants to see her daughter before it's too late.</desc>
@@ -3594,7 +3595,7 @@
       <value>M | A</value>
     </rating>
   </programme>
-  <programme start="20241207215500 +0000" stop="20241207225500 +0000" channel="UKH">
+  <programme start="20241207215500 +0000" stop="20241207225500 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">The Apple Doesn't Fall</sub-title>
     <desc lang="en">Headmistress Louisa Glasson is reading to the children of Portwenn primary school as the grumpiest doctor in the West Country marches through the village. Suddenly, Louisa faints in front of her class.</desc>
@@ -3621,7 +3622,7 @@
       <value>M | S,A</value>
     </rating>
   </programme>
-  <programme start="20241207225500 +0000" stop="20241207235500 +0000" channel="UKH">
+  <programme start="20241207225500 +0000" stop="20241207235500 +0000" channel="UKT">
     <title lang="en">Joanna Lumley's Britain</title>
     <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Joanna starts at Tilbury Docks in Essex. Along the way to Whitby she drives a replica of James Bond's Aston Martin, visits the plague village of Eyam, revisits the set of Coronation Street, and Beatrix Potter's home.</desc>
@@ -3640,7 +3641,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207235500 +0000" stop="20241208005500 +0000" channel="UKH">
+  <programme start="20241207235500 +0000" stop="20241208005500 +0000" channel="UKT">
     <title lang="en">Live at the Apollo</title>
     <sub-title lang="en">Episode 4</sub-title>
     <desc lang="en">Darren Harriott is hosting with stand-up performances by Jessica Fostekew and Stephen Bailey.</desc>
@@ -5417,7 +5418,7 @@
   <programme start="20241205100000 +0000" stop="20241205103000 +0000" channel="FOX">
     <title lang="en">Creature Commandos</title>
     <sub-title lang="en">The Tourmaline Necklace</sub-title>
-    <desc lang="en">As Ilana continues her pursuit of Flag, The Bride shows Nina where she was created, and relives Frankenstein's rocky attempts to woo her.</desc>
+    <desc lang="en">As Ilana continues her pursuit of Flag, The Bride shows Nina where she was created - and relives Frankenstein's rocky attempts to woo her.</desc>
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Animation</category>
@@ -23002,7 +23003,7 @@
     <sub-title lang="en">Everybody Takes a Beating Sometime</sub-title>
     <desc lang="en">Bell's family goes public with their lawsuit, which leads to almost-instant repercussions on the job.</desc>
     <credits>
-      <director>Jean De Segonzac</director>
+      <director>Jean de Segonzac</director>
       <actor>Christopher Meloni</actor>
       <actor>Danielle Mone Truitt</actor>
       <actor>Tamara Taylor</actor>
@@ -23102,7 +23103,7 @@
     <sub-title lang="en">Sound Bodies</sub-title>
     <desc lang="en">The investigation into a rash of arsenic related deaths in the close-knit community of Channel Island becomes more complicated when linked to the recent drowning of three teenage boys.</desc>
     <credits>
-      <director>Jean De Segonzac</director>
+      <director>Jean de Segonzac</director>
       <actor>Vincent D'Onofrio</actor>
       <actor>Kathryn Erbe</actor>
       <actor>Jamey Sheridan</actor>
@@ -24567,7 +24568,7 @@
     <sub-title lang="en">Sound Bodies</sub-title>
     <desc lang="en">The investigation into a rash of arsenic related deaths in the close-knit community of Channel Island becomes more complicated when linked to the recent drowning of three teenage boys.</desc>
     <credits>
-      <director>Jean de Segonzac</director>
+      <director>Jean De Segonzac</director>
       <actor>Vincent D'Onofrio</actor>
       <actor>Kathryn Erbe</actor>
       <actor>Jamey Sheridan</actor>
@@ -59393,6 +59394,269 @@
     </video>
     <new/>
   </programme>
+  <programme start="20241207093000 +0000" stop="20241207100000 +0000" channel="SP2">
+    <title lang="en">Greatest Halfbacks of the Noughties</title>
+    <sub-title lang="en">2015 Johnathan Thurston</sub-title>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20241207100000 +0000" stop="20241207103000 +0000" channel="SP2">
+    <title lang="en">Greatest Halfbacks of the Noughties</title>
+    <sub-title lang="en">2012 Cooper Cronk</sub-title>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20241207103000 +0000" stop="20241207113000 +0000" channel="SP2">
+    <title lang="en">Greatest Halfbacks of the Noughties</title>
+    <sub-title lang="en">2008 Matt Orford</sub-title>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20241207113000 +0000" stop="20241207120000 +0000" channel="SP2">
+    <title lang="en">Greatest Halfbacks of the Noughties</title>
+    <sub-title lang="en">2010 Scott Prince</sub-title>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <new/>
+  </programme>
+  <programme start="20241207120000 +0000" stop="20241207130000 +0000" channel="SP2">
+    <title lang="en">Greatest Tests</title>
+    <sub-title lang="en">2017 England v Samoa</sub-title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20241207130000 +0000" stop="20241207140000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Titans v Warriors</sub-title>
+    <desc lang="en">David Fifita &amp; Roger Tuivasa-Sheck are 2 key players due to return from injury in this clash. Can the Titans repeat their Round 8 upset over the Warriors?</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207140000 +0000" stop="20241207150000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Roosters v Bulldogs</sub-title>
+    <desc lang="en">The Roosters defeated the Eels, while the Bulldogs are on a 3-game winning streak. James Tedesco &amp; Matt Burton are available after missing SOO selection.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207150000 +0000" stop="20241207160000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Rabbitohs v Sea Eagles</sub-title>
+    <desc lang="en">Can Jack Wighton &amp; Cody Walker lead the way for the resurgent Rabbitohs or will the Sea Eagles build on their courageous Round 15 win?</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Wests Tigers v Raiders</sub-title>
+    <desc lang="en">How will Wests Tigers follow up Round 15's victory that ended a 9-game losing streak? In Round 2, the Raiders dominated after a tight first 30 minutes.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207170000 +0000" stop="20241207180000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Bulldogs v Sharks</sub-title>
+    <desc lang="en">Can Nicho Hynes produce another man-of-the-match performance, or will the Bulldogs gain revenge for their Round 2 loss against the Sharks?</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207180000 +0000" stop="20241207190000 +0000" channel="SP2">
+    <title lang="en">NRL</title>
+    <sub-title lang="en">Warriors v Broncos</sub-title>
+    <desc lang="en">A huge test of character for the Warriors after Round 16's debacle. Will the Broncos repeat their Prelim Final win or can the sellout crowd lift the hosts?</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/37/12/04/371204_1004_league_generic.jpg"/>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207190000 +0000" stop="20241207193000 +0000" channel="SP2">
+    <title lang="en">The Fan</title>
+    <sub-title lang="en">Episode 19</sub-title>
+    <desc lang="en">Vossy catches up with 3-time premiership winner Paul Langmack, number 9s on when they knew they'd play that role &amp; Lara tests the Raiders' drawing skills.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207193000 +0000" stop="20241207200100 +0000" channel="SP2">
+    <title lang="en">Face-To-Face on Fox</title>
+    <sub-title lang="en">Ben Hunt with Jake Duke</sub-title>
+    <desc lang="en">Dragons captain, Ben Hunt, speaks with Jake Duke about the Red V's 2024 resurgence, playing for Queensland &amp; the high &amp; lows of his 300 plus game career.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207200100 +0000" stop="20241207210100 +0000" channel="SP2">
+    <title lang="en">QLD Hour</title>
+    <sub-title lang="en">2024 R5 Cowboys v Titans</sub-title>
+    <desc lang="en">From thrilling grand final wins to dramatic last-minute tries and unforgettable comebacks, Queensland's teams have delivered some of the most memorable matches in rugby league history.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207210100 +0000" stop="20241207223000 +0000" channel="SP2">
+    <title lang="en">Greatest Tests</title>
+    <sub-title lang="en">2003 GB v AUS 2nd Test</sub-title>
+    <desc lang="en">A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.</desc>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <episode-num system="xmltv_ns">2020..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20241207223000 +0000" stop="20241207230000 +0000" channel="SP2">
+    <title lang="en">Top Tries</title>
+    <sub-title lang="en">1996</sub-title>
+    <desc lang="en">We showcase some of the Top Tries from the 1996 Rugby League premiership season.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207230000 +0000" stop="20241207233000 +0000" channel="SP2">
+    <title lang="en">Top Tries</title>
+    <sub-title lang="en">1997</sub-title>
+    <desc lang="en">Enjoy some of the Top Tries from the ARL &amp; Super League Rugby League competitions of 1997.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207233000 +0000" stop="20241208000000 +0000" channel="SP2">
+    <title lang="en">Top Tries</title>
+    <sub-title lang="en">1998</sub-title>
+    <desc lang="en">We showcase some of the Top Tries from the 1998 NRL premiership.</desc>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sport</category>
+    <country lang="en">Australia</country>
+    <episode-num system="xmltv_ns">2023..</episode-num>
+    <video>
+      <colour>yes</colour>
+      <aspect>16:9</aspect>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
   <channel id="FS3">
     <display-name lang="en">[Foxtel] FOX SPORTS 503 / FS3</display-name>
   </channel>
@@ -61266,7 +61530,7 @@
   </programme>
   <programme start="20241205135500 +0000" stop="20241205180000 +0000" channel="FSP">
     <title lang="en">Global Super League</title>
-    <sub-title lang="en">Lahore Qalanders v Rangpur Riders</sub-title>
+    <sub-title lang="en">Hampshire CCC v Victoria</sub-title>
     <desc lang="en">The inaugural Global Super League takes place in Guyana and brings the best club teams together from around the world.</desc>
     <date>2024</date>
     <category lang="en">Live</category>
@@ -68349,7 +68613,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207221500 +0000" stop="20241207231500 +0000" channel="RTV">
+  <programme start="20241207223000 +0000" stop="20241207233000 +0000" channel="RTV">
     <title lang="en">Flashback - Werribee Cup</title>
     <desc lang="en">We relive the great editions of the Werribee Cup.</desc>
     <category lang="en">Live</category>
@@ -72917,6 +73181,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -72930,7 +73195,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -72972,7 +73236,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -72986,6 +73249,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73027,7 +73291,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73055,6 +73318,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73082,6 +73346,7 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73095,7 +73360,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73136,6 +73400,7 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73177,6 +73442,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73259,7 +73525,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73273,6 +73538,7 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73286,7 +73552,6 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73314,6 +73579,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73369,6 +73635,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73396,7 +73663,6 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73452,6 +73718,7 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73479,6 +73746,7 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73534,7 +73802,6 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73618,6 +73885,7 @@
     <category lang="en">Current Affairs</category>
     <country lang="en">USA</country>
     <video>
+      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73659,7 +73927,6 @@
     <category lang="en">News</category>
     <country lang="en">USA</country>
     <video>
-      <aspect>16:9</aspect>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
@@ -73674,6 +73941,188 @@
     <country lang="en">USA</country>
     <video>
       <aspect>16:9</aspect>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207100000 +0000" stop="20241207110000 +0000" channel="FNC">
+    <title lang="en">The Five</title>
+    <sub-title lang="en">07-12-2024</sub-title>
+    <desc lang="en">The Five is an opinion show featuring a roundtable ensemble with Greg Gutfeld, Dana Perino, Juan Williams and Jesse Watters who discuss, debate and at times debunk the hot news stories, controversies and issues of the day.?</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207110000 +0000" stop="20241207120000 +0000" channel="FNC">
+    <title lang="en">FOX &amp; Friends Saturday</title>
+    <sub-title lang="en">07-12-2024</sub-title>
+    <desc lang="en">Fox &amp; Friends Saturday, hosted by Rachel Campos-Duffy, Will Cain &amp; Pete Hegseth Will Cain (NY) &amp; Pete Hegseth (Butler, PA).</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207120000 +0000" stop="20241207130000 +0000" channel="FNC">
+    <title lang="en">FOX &amp; Friends Saturday</title>
+    <sub-title lang="en">07-12-2024</sub-title>
+    <desc lang="en">Fox &amp; Friends Saturday, hosted by Rachel Campos-Duffy, Will Cain &amp; Pete Hegseth Will Cain (NY) &amp; Pete Hegseth (Butler, PA).</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207130000 +0000" stop="20241207140000 +0000" channel="FNC">
+    <title lang="en">FOX &amp; Friends Saturday</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Fox &amp; Friends Saturday, hosted by Rachel Campos-Duffy, Will Cain &amp; Pete Hegseth Will Cain (NY) &amp; Pete Hegseth (Butler, PA).</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207140000 +0000" stop="20241207150000 +0000" channel="FNC">
+    <title lang="en">FOX &amp; Friends Saturday</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Fox &amp; Friends Saturday, hosted by Rachel Campos-Duffy, Will Cain &amp; Pete Hegseth Will Cain (NY) &amp; Pete Hegseth (Butler, PA).</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207150000 +0000" stop="20241207160000 +0000" channel="FNC">
+    <title lang="en">Cavuto Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Cavuto Live will feature a breakdown of the major headlines impacting business and politics along with a rotating panel of industry experts each week.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207160000 +0000" stop="20241207170000 +0000" channel="FNC">
+    <title lang="en">Cavuto Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Cavuto Live will feature a breakdown of the major headlines impacting business and politics along with a rotating panel of industry experts each week.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207170000 +0000" stop="20241207180000 +0000" channel="FNC">
+    <title lang="en">FOX News Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Hosts Griff Jenkins &amp; Alicia Acuna.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207180000 +0000" stop="20241207190000 +0000" channel="FNC">
+    <title lang="en">FOX News Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Hosts Griff Jenkins &amp; Alicia Acuna.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207190000 +0000" stop="20241207200000 +0000" channel="FNC">
+    <title lang="en">FOX News Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Hosts Arthel Neville &amp; Eric Shawn.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207200000 +0000" stop="20241207210000 +0000" channel="FNC">
+    <title lang="en">The Journal Editorial Report</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">If it's happening in Washington, you'll find it with a fresh point of view on The Journal Editorial Report, with host Paul Gigot.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207210000 +0000" stop="20241207220000 +0000" channel="FNC">
+    <title lang="en">FOX News Live</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Hosts Arthel Neville &amp; Eric Shawn.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207220000 +0000" stop="20241207230000 +0000" channel="FNC">
+    <title lang="en">The Five</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">The Five is an opinion show featuring a roundtable ensemble with Greg Gutfeld, Dana Perino, Juan Williams and Jesse Watters who discuss, debate and at times debunk the hot news stories, controversies and issues of the day.?</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <country lang="en">USA</country>
+    <video>
+      <quality>HD</quality>
+    </video>
+    <subtitles type="teletext"/>
+  </programme>
+  <programme start="20241207230000 +0000" stop="20241208000000 +0000" channel="FNC">
+    <title lang="en">FOX Report with Jon Scott</title>
+    <sub-title lang="en">08-12-2024</sub-title>
+    <desc lang="en">Covering the globe, fair and balanced! It's the day's top stories. Don't miss news "at the speed of LIVE!"</desc>
+    <category lang="en">Live</category>
+    <category lang="en">Series</category>
+    <category lang="en">Current Affairs</category>
+    <country lang="en">USA</country>
+    <video>
       <quality>HD</quality>
     </video>
     <subtitles type="teletext"/>
