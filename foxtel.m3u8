@@ -63,7 +63,7 @@ plugin://plugin.video.foxtel.go/?_=play&id=263956&media_type=1&_is_live=1&_nores
 #EXTINF:-1 channel-id="133" group-title="Entertainment;Foxtel Go" tvg-chno="133" tvg-id="DIS" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263959:206:CHANNEL:IMAGE:png&w=400#Discovery%20Channel|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Discovery Channel" , Discovery Channel
 plugin://plugin.video.foxtel.go/?_=play&id=263959&media_type=1&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 channel-id="134" group-title="Entertainment;Foxtel Go" tvg-chno="134" tvg-id="BBK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263958:206:CHANNEL:IMAGE:png&w=400#BBC%20Earth|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BBC Earth" , BBC Earth
+**#EXTINF:-1 channel-id="127" group-title="Entertainment;Foxtel Go" tvg-chno="127" tvg-id="BBK" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16695914:206:CHANNEL:IMAGE:png&w=200&appID=GO2" tvg-name="BBC Earth" , Movies Summer
 plugin://plugin.video.foxtel.go/?_=play&id=263958&media_type=1&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 channel-id="135" group-title="Entertainment;Foxtel Go" tvg-chno="135" tvg-id="CIN" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264099:206:CHANNEL:IMAGE:png&w=400#CRIME%2BINVESTIGATION|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CRIME+INVESTIGATION" , CRIME+INVESTIGATION
@@ -171,7 +171,7 @@ plugin://plugin.video.foxtel.go/?_=play&id=2427883&media_type=1&_is_live=1&_nore
 #EXTINF:-1 channel-id="604" group-title="News & Weather;Foxtel Go" tvg-chno="604" tvg-id="SUK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=543179:206:CHANNEL:IMAGE:png&w=400#SKY%20NEWS%20UK|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="SKY NEWS UK" , SKY NEWS UK
 plugin://plugin.video.foxtel.go/?_=play&id=543179&media_type=1&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 channel-id="606" group-title="News & Weather;Foxtel Go" tvg-chno="606" tvg-id="BBC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=506670:206:CHANNEL:IMAGE:png&w=400#BBC%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="BBC News" , BBC News
+**#EXTINF:-1 channel-id="525" group-title="News & Weather;Foxtel Go" tvg-chno="525" tvg-id="BBC" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16859930:206:CHANNEL:IMAGE:png&w=200&appID=GO2" tvg-name="BBC News" , Mainevent UFC
 plugin://plugin.video.foxtel.go/?_=play&id=506670&media_type=1&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 channel-id="608" group-title="News & Weather;Foxtel Go" tvg-chno="608" tvg-id="FNC" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542987:206:CHANNEL:IMAGE:png&w=400#FOX%20News|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="FOX News" , FOX News
@@ -192,7 +192,7 @@ plugin://plugin.video.foxtel.go/?_=play&id=4329941&media_type=1&_is_live=1&_nore
 #EXTINF:-1 channel-id="656" group-title="News & Weather;Foxtel Go" tvg-chno="656" tvg-id="NHK" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=4962087:206:CHANNEL:IMAGE:png&w=400#NHK%20World|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="NHK World" , NHK World
 plugin://plugin.video.foxtel.go/?_=play&id=4962087&media_type=1&_is_live=1&_noresume=.pvr
 
-#EXTINF:-1 channel-id="705" group-title="Kids & Family;Foxtel Go" tvg-chno="705" tvg-id="CBE" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263954:206:CHANNEL:IMAGE:png&w=400#CBeebies|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="CBeebies" , CBeebies
+**#EXTINF:-1 channel-id="151" group-title="Kids & Family;Foxtel Go" tvg-chno="151" tvg-id="CBE" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=16536694:206:CHANNEL:IMAGE:png&w=200&appID=GO2" tvg-name="CBeebies" , Fashiontv
 plugin://plugin.video.foxtel.go/?_=play&id=263954&media_type=1&_is_live=1&_noresume=.pvr
 
 #EXTINF:-1 channel-id="713" group-title="Kids & Family;Foxtel Go" tvg-chno="713" tvg-id="CNE" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=263952:206:CHANNEL:IMAGE:png&w=400#Cartoon%20Network|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-name="Cartoon Network" , Cartoon Network
