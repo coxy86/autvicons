@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 channel-id="106" group-title="Foxtel Go" tvg-chno="106" tvg-id="LST" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/foxtellifestyle.png" tvg-name="LifeStyle" , LifeStyle
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
