@@ -1,18 +1,18 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/skygonz.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
 
-#EXTINF:-1 channel-id="sky.605" tvg-id="RLA" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/rodlaverarena.png" tvg-chno="605" group-title="Tennis Streams" , Rod Laver Arena
+#EXTINF:-1 channel-id="sky.605" tvg-id="sky.55" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/rodlaverarena.png" tvg-chno="605" group-title="Tennis Streams" , Rod Laver Arena
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input01/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="sky.606" tvg-id="JCA" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/johncain.png" tvg-chno="606" group-title="Tennis Streams" , John Cain Arena
+#EXTINF:-1 channel-id="sky.606" tvg-id="sky.57" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/johncain.png" tvg-chno="606" group-title="Tennis Streams" , John Cain Arena
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input02/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="sky.607" tvg-id="MCA" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/mca.png" tvg-chno="607" group-title="Tennis Streams" , Margaret Court Arena
+#EXTINF:-1 channel-id="sky.607" tvg-id="sky.56" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/mca.png" tvg-chno="607" group-title="Tennis Streams" , Margaret Court Arena
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input03/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="sky.608" tvg-id="KIA" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/kia.png" tvg-chno="608" group-title="Tennis Streams" , Show Court Arena
+#EXTINF:-1 channel-id="sky.608" tvg-id="sky.51" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/kia.png" tvg-chno="608" group-title="Tennis Streams" , Show Court Arena
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input04/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="sky.609" tvg-id="1573" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/1573.png" tvg-chno="609" group-title="Tennis Streams" , Show Court 2
+#EXTINF:-1 channel-id="sky.609" tvg-id="sky.52" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/1573.png" tvg-chno="609" group-title="Tennis Streams" , Show Court 2
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input05/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="sky.610" tvg-id="sky.610" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/court3.png" tvg-chno="610" group-title="Tennis Streams" , Show Court 3
