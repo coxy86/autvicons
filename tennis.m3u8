@@ -75,5 +75,8 @@ https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input24/r1/index.m
 #####EXTINF:-1 channel-id="sky.624" tvg-id="sky.59" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/brissyshowcourt1.png" tvg-chno="624" group-title="Tennis Streams" , Court 24
 https://9now-livestreams-v2.akamaized.net/prod/event/tbs/9now/input25/r1/index.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="sky.624" tvg-id="sky.59" tvg-logo="https://capitalgroupenterprises.com/wp-content/uploads/2025/01/Tennis-Channel.png" tvg-chno="624" group-title="Tennis Streams" , Court 24
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.59" tvg-logo="https://capitalgroupenterprises.com/wp-content/uploads/2025/01/Tennis-Channel.png" tvg-chno="624" group-title="Tennis Streams" , The Tennis Channel
 https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.59" tvg-logo="https://capitalgroupenterprises.com/wp-content/uploads/2025/01/Tennis-Channel.png" tvg-chno="624" group-title="Tennis Streams" , The Tennis Channel 2
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
