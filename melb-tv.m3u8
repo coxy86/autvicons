@@ -39,16 +39,16 @@ https://i.mjh.nz/.r/10bold-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%201
 #EXTINF:-1 channel-id="mjh-10peach-vic" tvg-id="403767auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/10peachnew.png" tvg-chno="11" group-title="Melbourne" , 10 Peach
 https://i.mjh.nz/.r/10peach-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-10shake-vic" tvg-id="mjh-10shake-vic" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/nickelodeonnew.png" tvg-chno="13" group-title="Melbourne" , Nickelodeon
+#EXTINF:-1 channel-id="mjh-10shake-vic" tvg-id="432257auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/nickelodeonnew.png" tvg-chno="13" group-title="Melbourne" , Nickelodeon
 https://i.mjh.nz/.r/10shake-vic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-c31" tvg-id="251882auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/ch31new.png" tvg-chno="44" group-title="Melbourne" , Channel 31
 https://i.mjh.nz/.r/c31.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/abcentertains.png" tvg-chno="23" group-title="Melbourne" , ABC ME
+#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="411324auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/abcentertains.png" tvg-chno="23" group-title="Melbourne" , ABC ME
 https://c.mjh.nz/abc-me.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/abcnews2new.png" tvg-chno="24" group-title="Melbourne" , ABC NEWS
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="391136auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/abcnews2new.png" tvg-chno="24" group-title="Melbourne" , ABC NEWS
 https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-sbs" tvg-id="391143auepg.com.au" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/sbsnew4.png" tvg-chno="3" group-title="Melbourne" , SBS
