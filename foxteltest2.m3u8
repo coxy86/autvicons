@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxyj86/epg/refs/heads/main/tvguide.xml"
 
-#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="FAF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kayo_Sports_logo.png" tvg-chno="7" group-title="Melbourne" , Seven
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="FAF" tvg-logo="https://media.info/l/o/6/6592.1491350506.png" tvg-chno="7" group-title="Melbourne" , Fox Footy
 http://hdhd.tk:80/davidleon54@icloud.com/eGvGS2Up/50236
+
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="FAF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kayo_Sports_logo.png" tvg-chno="7" group-title="Melbourne" , Bein Sports 3
+http://hdhd.tk:80/davidleon54@icloud.com/eGvGS2Up/50230
