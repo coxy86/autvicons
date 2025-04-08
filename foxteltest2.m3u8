@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxyj86/epg/refs/heads/main/tvguide.xml"
 
-#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/Seven-Network-logonew.png" tvg-chno="7" group-title="Melbourne" , Seven
-https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/lifestyle.m3u8
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="FAF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Kayo_Sports_logo.png" tvg-chno="7" group-title="Melbourne" , Seven
+http://hdhd.tk:80/davidleon54@icloud.com/eGvGS2Up/50236
