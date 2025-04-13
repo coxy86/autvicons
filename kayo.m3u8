@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Kayo/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400#FOX%20CRICKET|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sports 501
+#EXTINF:-1 tvg-id="53208" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542982:206:CHANNEL:IMAGE:png&w=400#FOX%20CRICKET|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sports 501
 https://a1xs.vip/700001
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400#FOX%20League|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sports 502
+#EXTINF:-1 tvg-id="53210" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542983:206:CHANNEL:IMAGE:png&w=400#FOX%20League|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sports 502
 https://a1xs.vip/700002
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#The%20Masters|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 503
+#EXTINF:-1 tvg-id="53211" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542984:206:CHANNEL:IMAGE:png&w=400#The%20Masters|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 503
 https://a1xs.vip/700003
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 504
+#EXTINF:-1 tvg-id="53212" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=542985:206:CHANNEL:IMAGE:png&w=400#FOX%20Footy|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 504
 https://a1xs.vip/700004
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 505
+#EXTINF:-1 tvg-id="53214" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=264274:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20505|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 505
 https://a1xs.vip/700005
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 506
+#EXTINF:-1 tvg-id="53215" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 506
 https://a1xs.vip/700006
 
-#EXTINF:-1 tvg-id="sky.51" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 507
+#EXTINF:-1 tvg-id="53216" tvg-logo="https://foxtel-go-sw.foxtelplayer.foxtel.com.au/go-mobile-570/imageHelper.php?id=504388:206:CHANNEL:IMAGE:png&w=400#Fox%20Sports%20506|user-agent=platform/2.1.2/53d94800ee87a4cb2eaf4c766776c64a&accept-language=en_US&session_type=art&session_addonid=plugin.video.foxtel.go" tvg-chno="630" group-title="Kayo Sports" , FOX Sport 507
 http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280194.ts
