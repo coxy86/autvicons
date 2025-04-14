@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
 
-#EXTINF:-1 channel-id="sky.624" tvg-id="sky.51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" tvg-chno="630" group-title="Tennis Streams" , Sky Sport 1
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" tvg-chno="630" group-title="Sky Go NZ",NZ , Sky Sport 1
 https://a1xs.vip/700031
 
-#EXTINF:-1 channel-id="sky.624" tvg-id="sky.52" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" tvg-chno="631" group-title="Tennis Streams" , Sky Sport 2
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.52" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" tvg-chno="631" group-title="Sky Go NZ",NZ , Sky Sport 2
 https://a1xs.vip/700032
 
 #EXTINF:-1 tvg-id="sky.53" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png" tvg-chno="632" group-title="Sky Go NZ",NZ | Sky Sport 3
