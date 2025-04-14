@@ -6,14 +6,14 @@ https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 channel-id="sky.624" tvg-id="I217.60316.gracenote.com" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tennis8.png" tvg-chno="625" group-title="Tennis Streams" , The Tennis Channel 2
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
-#####EXTINF:-1 tvg-id="I1241.82450.schedulesdirect.org" tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" tvg-chno="626" group-title="United Kingdom",UK | TNT Sports 1
+#####EXTINF:-1 tvg-id="I1241.82450.schedulesdirect.org" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" tvg-chno="626" group-title="United Kingdom",UK | TNT Sports 1
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
 
-####%EXTINF:-1 tvg-id="I1246.82451.schedulesdirect.org" tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" tvg-chno="627" group-title="United Kingdom",UK | TNT Sports 2
+####%EXTINF:-1 tvg-id="I1246.82451.schedulesdirect.org" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" tvg-chno="627" group-title="United Kingdom",UK | TNT Sports 2
 https://wowza5.leisertv.com/live/btsports2hd.stream/playlist.m3u8
 
-#####EXTINF:-1 tvg-id="I1248.95772.schedulesdirect.org" tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" tvg-chno="628" group-title="United Kingdom",UK | TNT Sports 3
+#####EXTINF:-1 tvg-id="I1248.95772.schedulesdirect.org" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" tvg-chno="628" group-title="United Kingdom",UK | TNT Sports 3
 https://wowza5.leisertv.com/live/btsports3hd.stream/playlist.m3u8
 
-#####EXTINF:-1 tvg-id="I1250.64572.schedulesdirect.org" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" tvg-chno="629" group-title="United Kingdom",UK | TNT Sports 4
+#####EXTINF:-1 tvg-id="I1250.64572.schedulesdirect.org" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" tvg-chno="629" group-title="United Kingdom",UK | TNT Sports 4
 https://wowza5.leisertv.com/live/btsportsespnhd.stream/playlist.m3u8
