@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
 
-#EXTINF:-1 channel-id="sky.624" tvg-id="sky.51" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="630" group-title="Tennis Streams" , Sky Sport 1
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.51" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" tvg-chno="630" group-title="Tennis Streams" , Sky Sport 1
 https://a1xs.vip/700031
 
-#EXTINF:-1 channel-id="sky.624" tvg-id="sky.52" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="631" group-title="Tennis Streams" , Sky Sport 2
+#EXTINF:-1 channel-id="sky.624" tvg-id="sky.52" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" tvg-chno="631" group-title="Tennis Streams" , Sky Sport 2
 https://a1xs.vip/700032
 
-#EXTINF:-1 tvg-id="sky.53" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="632" group-title="Sky Go NZ",NZ | Sky Sport 3
+#EXTINF:-1 tvg-id="sky.53" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/e1htne1642606972.png" tvg-chno="632" group-title="Sky Go NZ",NZ | Sky Sport 3
 https://a1xs.vip/700033
 
-#EXTINF:-1 tvg-id="sky.54" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/547OJTpD88fxJE5z1ZlZhN/5350246da05b14251b852b58a8cf07e5/Sky_Sports_4.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="633" group-title="Sky Go NZ",NZ | Sky Sport 4
+#EXTINF:-1 tvg-id="sky.54" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3aho1v1642606988.png" tvg-chno="633" group-title="Sky Go NZ",NZ | Sky Sport 4
 https://a1xs.vip/700034
 
-#EXTINF:-1 tvg-id="sky.55" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="634" group-title="Sky Go NZ",NZ | Sky Sport 5
+#EXTINF:-1 tvg-id="sky.55" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/c1zmrr1642606833.png" tvg-chno="634" group-title="Sky Go NZ",NZ | Sky Sport 5
 https://a1xs.vip/700035
 
-#EXTINF:-1 tvg-id="sky.56" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="635" group-title="Sky Go NZ",NZ | Sky Sport 6
+#EXTINF:-1 tvg-id="sky.56" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png" tvg-chno="635" group-title="Sky Go NZ",NZ | Sky Sport 6
 https://a1xs.vip/700036
 
-#EXTINF:-1 tvg-id="sky.57" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="636" group-title="Sky Go NZ",NZ | Sky Sport 7
+#EXTINF:-1 tvg-id="sky.57" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png" tvg-chno="636" group-title="Sky Go NZ",NZ | Sky Sport 7
 http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/302399.ts
 
-#EXTINF:-1 tvg-id="sky.58" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1E6YMflONVpZdhNXvc0LWo/68443f563a0c6a383edcc2518b1cbae9/Sky_Sport_Premier_League_Logo_Arrow_Box.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="637" group-title="Sky Go NZ",NZ | Sky Sport 8
+#EXTINF:-1 tvg-id="sky.58" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" tvg-chno="637" group-title="Sky Go NZ",NZ | Sky Sport 8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302400
 
-#EXTINF:-1 tvg-id="sky.59" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5F6kCqdSuIcHo7gDduSFVt/f67001a9ae1f9dfb1d7a2a82d9acf538/Sky_Sports_9.png?imdensity=2&impolicy=contentTileVertical&imwidth=286" tvg-chno="638" group-title="Sky Go NZ",NZ | Sky Sport 9
+#EXTINF:-1 tvg-id="sky.59" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aziu4p1642607095.png" tvg-chno="638" group-title="Sky Go NZ",NZ | Sky Sport 9
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304079
