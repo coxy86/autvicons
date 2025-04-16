@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/refs/heads/master/guide.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/tntsports.xml"
 
 #EXTINF:-1 tvg-id="I1241.82450.schedulesdirect.org" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" tvg-chno="626" group-title="United Kingdom",UK | TNT Sports 1
 https://wowza5.leisertv.com/live/btsports1hd.stream/playlist.m3u8
