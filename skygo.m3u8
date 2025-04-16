@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxy86/autvicons/refs/heads/main/skygonz.xml"
 
 #EXTINF:-1 channel-id="sky.624" tvg-id="sky.51" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/skynz1.png" tvg-chno="630" group-title="Sky Go NZ",NZ , Sky Sport 1
 https://a1xs.vip/700031
