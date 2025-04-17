@@ -1,7 +1,0 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/refs/heads/master/guide.xml"
-
-#EXTINF:-1 channel-id="sky.624" tvg-id="I217.33395.gracenote.com" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tennis7.png" tvg-chno="624" group-title="Tennis Streams" , The Tennis Channel
-https://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-
-#EXTINF:-1 channel-id="sky.624" tvg-id="I217.60316.gracenote.com" tvg-logo="https://raw.githubusercontent.com/coxy86/autvicons/main/tennis8.png" tvg-chno="625" group-title="Tennis Streams" , The Tennis Channel 2
-https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
