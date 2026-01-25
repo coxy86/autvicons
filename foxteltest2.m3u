@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/coxyj86/epg/refs/heads/main/tvguide.xml"
 
-#EXTM3U
 #EXTINF:-1 tvg-name="Fox Sports" group-title="Sports", Fox Sports Live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.content.foxtel.com.au/licenseServer/widevine/v1/foxtelott/license?contentId=stx_501501|Content-Type=application/octet-stream|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/v1/dash/b259a4c6c7055dd33d5a9109c9d584b5dd51dd5a/StrEx-dash-avc-drm-session/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?aws.manifestfilter=audio_codec%3AAACL%3Btrickplay_height%3A1-2&aws.sessionId=184521b8-3fad-4f09-9a76-4628d78d42c3
+
